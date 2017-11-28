@@ -6,7 +6,11 @@
 
 import csv
 
+from jinja2 import Environment, FileSystemLoader
+
 FILENAME = 'football_terms_dic.csv'
+INPUT_FILENAME = 'template.xml'
+OUTPUT_FILENAME = 'football_terms_dic.xml'
 
 
 def load_dataset(filename):
@@ -17,5 +21,13 @@ def load_dataset(filename):
             print(row)
 
 
+def render_template(input_filename, output_filename):
+    env = Environment(loader=FileSystemLoader('./'))
+    template = env.get_template(input_filename).render()
+    with open(output_filename, 'wt') as f:
+        f.write(template)
+
+
 if __name__ == '__main__':
     load_dataset(FILENAME)
+    render_template(INPUT_FILENAME, OUTPUT_FILENAME)

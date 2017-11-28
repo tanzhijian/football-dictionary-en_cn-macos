@@ -1,1 +1,1 @@
-MacOS Dictionary.app 的足球专业词汇英汉词典
+MacOS Dictionary.app 的足球术语英汉词典
