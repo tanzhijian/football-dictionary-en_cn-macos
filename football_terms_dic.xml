@@ -4,24 +4,19 @@
     It can be built using Dictionary Development Kit.
 -->
 <d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+
 <d:entry id="assist" d:title="assist">
     <d:index d:value="assist"/>
     <h1>assist</h1>
-    <p>
-        助攻
-    </p>
-    <p>
-        助攻
-    </p>
+    <p>助攻</p>
+    <p>助攻</p>
 </d:entry>
+
 <d:entry id="defender" d:title="defender">
     <d:index d:value="defender"/>
     <h1>defender</h1>
-    <p>
-        后卫，防守队员
-    </p>
-    <p>
-        后卫
-    </p>
+    <p>后卫，防守队员</p>
+    <p>后卫</p>
 </d:entry>
+
 </d:dictionary>

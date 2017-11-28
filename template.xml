@@ -4,24 +4,12 @@
     It can be built using Dictionary Development Kit.
 -->
 <d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
-<d:entry id="assist" d:title="assist">
-    <d:index d:value="assist"/>
-    <h1>assist</h1>
-    <p>
-        助攻
-    </p>
-    <p>
-        助攻
-    </p>
+{% for entry in entry_list %}
+<d:entry id="{{ entry[0] }}" d:title="{{ entry[0] }}">
+    <d:index d:value="{{ entry[0] }}"/>
+    <h1>{{ entry[0] }}</h1>
+    <p>{{ entry[1] }}</p>
+    <p>{{ entry[2] }}</p>
 </d:entry>
-<d:entry id="defender" d:title="defender">
-    <d:index d:value="defender"/>
-    <h1>defender</h1>
-    <p>
-        后卫，防守队员
-    </p>
-    <p>
-        后卫
-    </p>
-</d:entry>
+{% endfor %}
 </d:dictionary>

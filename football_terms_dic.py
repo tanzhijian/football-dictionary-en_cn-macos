@@ -8,26 +8,28 @@ import csv
 
 from jinja2 import Environment, FileSystemLoader
 
-FILENAME = 'football_terms_dic.csv'
+DATASET = 'football_terms_dic.csv'
 INPUT_FILENAME = 'template.xml'
 OUTPUT_FILENAME = 'football_terms_dic.xml'
 
 
-def load_dataset(filename):
-    with open(filename) as f:
+def load_dataset(dataset):
+    entry_list = []
+    with open(dataset) as f:
         f_csv = csv.reader(f)
         headers = next(f_csv)
         for row in f_csv:
-            print(row)
+            entry_list.append(row)
+    return entry_list
 
 
-def render_template(input_filename, output_filename):
+def render_template(dataset, input_filename, output_filename):
+    entry_list = load_dataset(dataset)
     env = Environment(loader=FileSystemLoader('./'))
-    template = env.get_template(input_filename).render()
+    template = env.get_template(input_filename).render(entry_list=entry_list)
     with open(output_filename, 'wt') as f:
         f.write(template)
 
 
 if __name__ == '__main__':
-    load_dataset(FILENAME)
-    render_template(INPUT_FILENAME, OUTPUT_FILENAME)
+    render_template(DATASET, INPUT_FILENAME, OUTPUT_FILENAME)
