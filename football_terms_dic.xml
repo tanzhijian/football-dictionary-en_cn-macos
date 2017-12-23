@@ -1,22 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-    This is a sample dictionary source file.
-    It can be built using Dictionary Development Kit.
--->
 <d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
 
-<d:entry id="assist" d:title="assist">
-    <d:index d:value="assist"/>
-    <h1>assist</h1>
-    <p>助攻</p>
-    <p>助攻</p>
+<d:entry id="actual playing time" d:title="actual playing time">
+    <d:index d:value="actual playing time"/>
+    <h1>actual playing time</h1>
+    <h3>实际比赛时间</h3>
 </d:entry>
 
-<d:entry id="defender" d:title="defender">
-    <d:index d:value="defender"/>
-    <h1>defender</h1>
-    <p>后卫，防守队员</p>
-    <p>后卫</p>
+<d:entry id="adjust one's position" d:title="adjust one's position">
+    <d:index d:value="adjust one's position"/>
+    <h1>adjust one's position</h1>
+    <h3>调整位置</h3>
+    <p>这是比较正规的用法。向……提出警告通常用 give sb. a acution. 或 caution sb.</p>
+    <p>The referee stops the game to administer the caution.</p>
+    <p>裁判员为了提出警告而暂停比赛。</p>
+</d:entry>
+
+<d:entry id="AFC" d:title="AFC">
+    <d:index d:value="AFC"/>
+    <h1>AFC</h1>
+    <h3>AFC 亚洲足球联合会的缩写</h3>
+    <p>全称 abbreviation for Asian Football Confederation</p>
+</d:entry>
+
+<d:entry id="aggregate score" d:title="aggregate score">
+    <d:index d:value="aggregate score"/>
+    <h1>aggregate score</h1>
+    <h3>总分</h3>
+</d:entry>
+
+<d:entry id="aggressive play" d:title="aggressive play">
+    <d:index d:value="aggressive play"/>
+    <h1>aggressive play</h1>
+    <h3>凶狠积极或主动积极的打法</h3>
+</d:entry>
+
+<d:entry id="aggressive player" d:title="aggressive player">
+    <d:index d:value="aggressive player"/>
+    <h1>aggressive player</h1>
+    <h3>拼抢凶狠积极的队员，风格凶狠的队员</h3>
+</d:entry>
+
+<d:entry id="air ball" d:title="air ball">
+    <d:index d:value="air ball"/>
+    <h1>air ball</h1>
+    <h3>空中球</h3>
+</d:entry>
+
+<d:entry id="all-out attacking game" d:title="all-out attacking game">
+    <d:index d:value="all-out attacking game"/>
+    <h1>all-out attacking game</h1>
+    <h3>全攻型打法</h3>
+</d:entry>
+
+<d:entry id="amateur football player" d:title="amateur football player">
+    <d:index d:value="amateur football player"/>
+    <h1>amateur football player</h1>
+    <h3>业余足球运动员</h3>
+</d:entry>
+
+<d:entry id="angled shot" d:title="angled shot">
+    <d:index d:value="angled shot"/>
+    <h1>angled shot</h1>
+    <h3>小角度射门</h3>
+    <p>to make an angled shot</p>
+    <p>进行小角度射门</p>
+</d:entry>
+
+<d:entry id="ankle pads" d:title="ankle pads">
+    <d:index d:value="ankle pads"/>
+    <h1>ankle pads</h1>
+    <h3>护踝</h3>
+</d:entry>
+
+<d:entry id="anticipate" d:title="anticipate">
+    <d:index d:value="anticipate"/>
+    <h1>anticipate</h1>
+    <h3>预见，预料</h3>
+    <p>to anticipate their moves</p>
+    <p>预见到（预料到）对方的行动</p>
+</d:entry>
+
+<d:entry id="appeal" d:title="appeal">
+    <d:index d:value="appeal"/>
+    <h1>appeal</h1>
+    <h3>上诉，申诉</h3>
+    <p>1. 作动词：</p>
+    <p>The team appealed against the decision.</p>
+    <p>这个队员对判决（决议）提出上诉。</p>
+    <p>2. 作名词：</p>
+    <p>to make an appeal / to lodge an appeal</p>
+    <p>提出上诉，提出申诉</p>
+    <p>Board of Appeal</p>
+    <p>上诉委员会</p>
+    <p>An appeal may be lodged with the Board of Appeal within a period of five days.</p>
+    <p>上诉可在 5 天内向上诉委员会提出。</p>
+    <p>If the appeal is sustained, the fee shall be refunded to the Association making the appeal.</p>
+    <p>如果上诉被认可，手续费将归还上诉的协会。</p>
 </d:entry>
 
 </d:dictionary>

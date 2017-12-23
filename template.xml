@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-    This is a sample dictionary source file.
-    It can be built using Dictionary Development Kit.
--->
 <d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
 {% for entry in entry_list %}
 <d:entry id="{{ entry[0] }}" d:title="{{ entry[0] }}">
     <d:index d:value="{{ entry[0] }}"/>
     <h1>{{ entry[0] }}</h1>
-    <p>{{ entry[1] }}</p>
-    <p>{{ entry[2] }}</p>
+    <h3>{{ entry[1] }}</h3>{% if entry[2:] %}{% for example in entry[2:] %}{% if example %}
+    <p>{{ example }}</p>{% endif %}{% endfor %}{% endif %}
 </d:entry>
 {% endfor %}
 </d:dictionary>

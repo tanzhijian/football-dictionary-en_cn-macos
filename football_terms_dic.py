@@ -8,7 +8,7 @@ import csv
 
 from jinja2 import Environment, FileSystemLoader
 
-DATASET = 'football_terms_dic.csv'
+DATASET = 'football_terms_dic - 1.csv'
 INPUT_FILENAME = 'template.xml'
 OUTPUT_FILENAME = 'football_terms_dic.xml'
 
