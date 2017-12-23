@@ -12,7 +12,7 @@ MacOS Dictionary.app 的足球术语英汉词典
 
 ## 编辑词典
 
-1. 打开 csv 文件进行编辑。可以使用 Microsoft Excel 或 Google Sheets 导入编辑后再导出 csv。
+1. 打开 csv 文件进行编辑。可以使用 Microsoft Excel 或 Google Sheets 导入编辑后再导出 csv
 
 2. 安装 Python 第三方依赖包 <code>pip install -r requirements.txt</code>
 
