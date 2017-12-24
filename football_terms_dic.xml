@@ -213,4 +213,312 @@
     <p>西拔牙是一支进攻型的球队。</p>
 </d:entry>
 
+<d:entry id="back" d:title="back">
+    <d:index d:value="back"/>
+    <h1>back</h1>
+    <h3>后卫</h3>
+</d:entry>
+
+<d:entry id="back kick" d:title="back kick">
+    <d:index d:value="back kick"/>
+    <h1>back kick</h1>
+    <h3>回传，向后传</h3>
+</d:entry>
+
+<d:entry id="back line" d:title="back line">
+    <d:index d:value="back line"/>
+    <h1>back line</h1>
+    <h3>防守线</h3>
+</d:entry>
+
+<d:entry id="balancing the defence" d:title="balancing the defence">
+    <d:index d:value="balancing the defence"/>
+    <h1>balancing the defence</h1>
+    <h3>防守补位</h3>
+</d:entry>
+
+<d:entry id="ball control" d:title="ball control">
+    <d:index d:value="ball control"/>
+    <h1>ball control</h1>
+    <h3>控制球</h3>
+</d:entry>
+
+<d:entry id="ball handling" d:title="ball handling">
+    <d:index d:value="ball handling"/>
+    <h1>ball handling</h1>
+    <h3>控制球，运球</h3>
+</d:entry>
+
+<d:entry id="ball out of play" d:title="ball out of play">
+    <d:index d:value="ball out of play"/>
+    <h1>ball out of play</h1>
+    <h3>死球</h3>
+</d:entry>
+
+<d:entry id="ball playing skill" d:title="ball playing skill">
+    <d:index d:value="ball playing skill"/>
+    <h1>ball playing skill</h1>
+    <h3>踢球技术</h3>
+</d:entry>
+
+<d:entry id="ball watcher" d:title="ball watcher">
+    <d:index d:value="ball watcher"/>
+    <h1>ball watcher</h1>
+    <h3>观望队员，在比赛中不积极主动的球员</h3>
+</d:entry>
+
+<d:entry id="ban" d:title="ban">
+    <d:index d:value="ban"/>
+    <h1>ban</h1>
+    <h3>禁止（某队员参赛），命令（某队员停赛）</h3>
+    <p>AC Milan defender Mauro Tassotti received a record eight match ban from FIFA's disciplinary committee.</p>
+    <p>AC 米兰队后卫塔索蒂被国际足联纪律委员会判罚停赛八场，这样的重判是前所未有的。</p>
+</d:entry>
+
+<d:entry id="banana kick" d:title="banana kick">
+    <d:index d:value="banana kick"/>
+    <h1>banana kick</h1>
+    <h3>香蕉球</h3>
+</d:entry>
+
+<d:entry id="banana shot" d:title="banana shot">
+    <d:index d:value="banana shot"/>
+    <h1>banana shot</h1>
+    <h3>香蕉式射门，弧线射门</h3>
+    <p>banana shot with the outside of the foot</p>
+    <p>用脚外侧踢香蕉球；用外脚背踢香蕉球</p>
+    <p>The main objective of banana shot is deception -- to lure the goalkepper into the wrong way.</p>
+    <p>香蕉式射门的主要目的是迷惑守门员，把他的注意力引向错误的方向。</p>
+</d:entry>
+
+<d:entry id="basics" d:title="basics">
+    <d:index d:value="basics"/>
+    <h1>basics</h1>
+    <h3>基本功</h3>
+</d:entry>
+
+<d:entry id="basic skills" d:title="basic skills">
+    <d:index d:value="basic skills"/>
+    <h1>basic skills</h1>
+    <h3>基本功（基本技术）</h3>
+</d:entry>
+
+<d:entry id="beat" d:title="beat">
+    <d:index d:value="beat"/>
+    <h1>beat</h1>
+    <h3>1. 晃过，过人；2. 打败</h3>
+    <p>1. 晃过，过人</p>
+    <p>to beat the opponents</p>
+    <p>晃过对手</p>
+    <p>Pele was able to beat three or even four men in a very small area.</p>
+    <p>贝利能在十分狭窄的地区晃过 3 名甚至 4 名防守队员。</p>
+    <p>A player in possession of the ball passes over the touch line in order to beat the opponent.</p>
+    <p>一个控制球的队员为了晃过对方球员越过边线。</p>
+    <p>2. 打败</p>
+    <p>Italy beat Nigeria 2:1.</p>
+    <p>意大利队 2:1 打败尼日利亚队。</p>
+</d:entry>
+
+<d:entry id="be hungry for goal" d:title="be hungry for goal">
+    <d:index d:value="be hungry for goal"/>
+    <h1>be hungry for goal</h1>
+    <h3>射门意识强</h3>
+</d:entry>
+
+<d:entry id="below one's best" d:title="below one's best">
+    <d:index d:value="below one's best"/>
+    <h1>below one's best</h1>
+    <h3>没打出最好水平</h3>
+</d:entry>
+
+<d:entry id="bench" d:title="bench">
+    <d:index d:value="bench"/>
+    <h1>bench</h1>
+    <h3>替补队员席</h3>
+</d:entry>
+
+<d:entry id="bicycle kick" d:title="bicycle kick">
+    <d:index d:value="bicycle kick"/>
+    <h1>bicycle kick</h1>
+    <h3>倒钩球</h3>
+    <p>to make a bicycle kick</p>
+    <p>踢倒钩球</p>
+</d:entry>
+
+<d:entry id="blanket defence" d:title="blanket defence">
+    <d:index d:value="blanket defence"/>
+    <h1>blanket defence</h1>
+    <h3>密集防守；“毛毯式”防守</h3>
+    <p>The "blanket" defence is designed to assure numerical superiority in the vital area.</p>
+    <p>密集防守是为了保证在要害地区集中优势兵力而设置的。</p>
+</d:entry>
+
+<d:entry id="blind side" d:title="blind side">
+    <d:index d:value="blind side"/>
+    <h1>blind side</h1>
+    <h3>反方向（球场的另一方）</h3>
+    <p>He must constantly be on the alert for a tackle from the blind side.</p>
+    <p>他必须时刻警惕来自反方向（球场的另一方）的堵截。</p>
+</d:entry>
+
+<d:entry id="block" d:title="block">
+    <d:index d:value="block"/>
+    <h1>block</h1>
+    <h3>堵截</h3>
+    <p>to block the ball</p>
+    <p>堵截球</p>
+    <p>The centre half blocks the ball.</p>
+    <p>中卫堵截球。</p>
+</d:entry>
+
+<d:entry id="body check" d:title="body check">
+    <d:index d:value="body check"/>
+    <h1>body check</h1>
+    <h3>身体阻挡</h3>
+</d:entry>
+
+<d:entry id="body contact" d:title="body contact">
+    <d:index d:value="body contact"/>
+    <h1>body contact</h1>
+    <h3>身体接触</h3>
+</d:entry>
+
+<d:entry id="bombard" d:title="bombard">
+    <d:index d:value="bombard"/>
+    <h1>bombard</h1>
+    <h3>狂轰滥炸，频繁进攻</h3>
+    <p>to bombard the goalmouth</p>
+    <p>在门前狂轰滥炸</p>
+    <p>The championship favourite Germans bombarded the Swedish goalmouth.</p>
+    <p>锦标赛热门队——德国队在瑞典队门前狂轰滥炸。</p>
+</d:entry>
+
+<d:entry id="book" d:title="book">
+    <d:index d:value="book"/>
+    <h1>book</h1>
+    <h3>受到警告处分</h3>
+    <p>[译注：book 的原意是（裁判）记下（运动员）的违纪行为。用于足球可译为受到警告处分，此词多用于被动语态。]</p>
+    <p>Three players were booked during the match.</p>
+    <p>在这场比赛中 3 名队员受到警告处分。</p>
+    <p>Player No. 6 was booked for a foul tackle.</p>
+    <p>6 号队员因抢截犯规受到处分（黄牌警告）。</p>
+</d:entry>
+
+<d:entry id="boot" d:title="boot">
+    <d:index d:value="boot"/>
+    <h1>boot</h1>
+    <h3>猛踢，大力射门</h3>
+    <p>（注：通常指射门时用力踢球）</p>
+</d:entry>
+
+<d:entry id="bottom right-hand corner of the net" d:title="bottom right-hand corner of the net">
+    <d:index d:value="bottom right-hand corner of the net"/>
+    <h1>bottom right-hand corner of the net</h1>
+    <h3>球网右下角</h3>
+</d:entry>
+
+<d:entry id="bounce shot" d:title="bounce shot">
+    <d:index d:value="bounce shot"/>
+    <h1>bounce shot</h1>
+    <h3>弹射</h3>
+</d:entry>
+
+<d:entry id="bounce" d:title="bounce">
+    <d:index d:value="bounce"/>
+    <h1>bounce</h1>
+    <h3>弹起，弹回</h3>
+    <p>The ball bounced off the goal-post.</p>
+    <p>球触球门柱弹出。</p>
+    <p>The ball bounced in front of the goal.</p>
+    <p>球在球门前弹起。</p>
+</d:entry>
+
+<d:entry id="boundary line" d:title="boundary line">
+    <d:index d:value="boundary line"/>
+    <h1>boundary line</h1>
+    <h3>界线</h3>
+</d:entry>
+
+<d:entry id="Brazilian formation" d:title="Brazilian formation">
+    <d:index d:value="Brazilian formation"/>
+    <h1>Brazilian formation</h1>
+    <h3>巴西阵式</h3>
+</d:entry>
+
+<d:entry id="breach of rules" d:title="breach of rules">
+    <d:index d:value="breach of rules"/>
+    <h1>breach of rules</h1>
+    <h3>违反规则</h3>
+</d:entry>
+
+<d:entry id="break through" d:title="break through">
+    <d:index d:value="break through"/>
+    <h1>break through</h1>
+    <h3>突破</h3>
+    <p>The forwards broke through the defensive line (the defence).</p>
+    <p>前锋突破了防线。</p>
+    <p>The Saudis broke through several times on the right flanks.</p>
+    <p>沙特队几次从右翼突破。</p>
+    <p>On several occasions they broke through the American defence on the flanks.</p>
+    <p>他们多次从侧翼突破了美国队的防线。</p>
+</d:entry>
+
+<d:entry id="breakthrough" d:title="breakthrough">
+    <d:index d:value="breakthrough"/>
+    <h1>breakthrough</h1>
+    <h3>突破</h3>
+    <p>to make a breakthrough</p>
+    <p>进行一次突破</p>
+</d:entry>
+
+<d:entry id="break up an attack" d:title="break up an attack">
+    <d:index d:value="break up an attack"/>
+    <h1>break up an attack</h1>
+    <h3>破坏对方的攻势</h3>
+</d:entry>
+
+<d:entry id="brilliant performance" d:title="brilliant performance">
+    <d:index d:value="brilliant performance"/>
+    <h1>brilliant performance</h1>
+    <h3>出色的表演，精彩的表演</h3>
+</d:entry>
+
+<d:entry id="build-up" d:title="build-up">
+    <d:index d:value="build-up"/>
+    <h1>build-up</h1>
+    <h3>组合，集结兵力</h3>
+    <p>The Bahrian players were very patient in their build-up.</p>
+    <p>巴林队员在组织进攻时表现出很大的耐心。</p>
+</d:entry>
+
+<d:entry id="build up an attack" d:title="build up an attack">
+    <d:index d:value="build up an attack"/>
+    <h1>build up an attack</h1>
+    <h3>组织进攻</h3>
+    <p>to build up an attack on the right (left) side of the field</p>
+    <p>在球场右侧（左侧）组织进攻</p>
+    <p>The attack may also be built up on the right side of the field through long crossfield passess.</p>
+    <p>通过长传，转移也可以在球场右侧组织进攻。</p>
+    <p>They built up their attack quickly.</p>
+    <p>他们快速的组织进攻。</p>
+</d:entry>
+
+<d:entry id="bully" d:title="bully">
+    <d:index d:value="bully"/>
+    <h1>bully</h1>
+    <h3>争抢球（通常指双方队员在门前争抢球），门前混战</h3>
+</d:entry>
+
+<d:entry id="bursting" d:title="bursting">
+    <d:index d:value="bursting"/>
+    <h1>bursting</h1>
+    <h3>冲击</h3>
+</d:entry>
+
+<d:entry id="bye" d:title="bye">
+    <d:index d:value="bye"/>
+    <h1>bye</h1>
+    <h3>轮空</h3>
+</d:entry>
+
 </d:dictionary>
