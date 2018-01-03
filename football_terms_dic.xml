@@ -1949,7 +1949,7 @@
     <h3>天资；天赋；天生的才能</h3>
     <p>（译注：flair 用于足球比赛，根据上下文可译为高招，绝招，绝活，高超的技术等。）</p>
     <p>They have a special flair.</p>
-    <p>他们有一首绝招（有一种特殊的天赋。）</p>
+    <p>他们有一手绝招（有一种特殊的天赋。）</p>
     <p>Lack attacking flair</p>
     <p>缺乏高超的进攻本领</p>
 </d:entry>
@@ -2208,6 +2208,199 @@
     <d:index d:value="fundamentals"/>
     <h1>fundamentals</h1>
     <h3>基本功</h3>
+</d:entry>
+
+<d:entry id="G" d:title="G">
+    <d:index d:value="G"/>
+    <h1>G</h1>
+    <h3>球门的缩写；守门员的缩写</h3>
+    <p>1. goals 球门</p>
+    <p>2. goalkeeper 守门员</p>
+</d:entry>
+
+<d:entry id="gian possession of the ball" d:title="gian possession of the ball">
+    <d:index d:value="gian possession of the ball"/>
+    <h1>gian possession of the ball</h1>
+    <h3>得球；占有球；控制球</h3>
+    <p>Player No.8 gained possession of the ball.</p>
+    <p>8 hao号队员得球（控制球）。</p>
+</d:entry>
+
+<d:entry id="game" d:title="game">
+    <d:index d:value="game"/>
+    <h1>game</h1>
+    <h3>比赛</h3>
+    <p>a game between ... and ...</p>
+    <p>... 对 ... 的一场比赛</p>
+</d:entry>
+
+<d:entry id="gate-crashing" d:title="gate-crashing">
+    <d:index d:value="gate-crashing"/>
+    <h1>gate-crashing</h1>
+    <h3>冲门；破门</h3>
+</d:entry>
+
+<d:entry id="gather the ball" d:title="gather the ball">
+    <d:index d:value="gather the ball"/>
+    <h1>gather the ball</h1>
+    <h3>接球</h3>
+</d:entry>
+
+<d:entry id="get around one's opponent" d:title="get around one's opponent">
+    <d:index d:value="get around one's opponent"/>
+    <h1>get around one's opponent</h1>
+    <h3>晃过对方队员</h3>
+</d:entry>
+
+<d:entry id="give a lacklustre performance" d:title="give a lacklustre performance">
+    <d:index d:value="give a lacklustre performance"/>
+    <h1>give a lacklustre performance</h1>
+    <h3>打得毫无生气</h3>
+</d:entry>
+
+<d:entry id="GK" d:title="GK">
+    <d:index d:value="GK"/>
+    <h1>GK</h1>
+    <h3>守门员的缩写</h3>
+</d:entry>
+
+<d:entry id="goal" d:title="goal">
+    <d:index d:value="goal"/>
+    <h1>goal</h1>
+    <h3>球门；进球</h3>
+    <p>A goal!</p>
+    <p>进球！</p>
+</d:entry>
+
+<d:entry id="goals against" d:title="goals against">
+    <d:index d:value="goals against"/>
+    <h1>goals against</h1>
+    <h3>失球数</h3>
+</d:entry>
+
+<d:entry id="goal area" d:title="goal area">
+    <d:index d:value="goal area"/>
+    <h1>goal area</h1>
+    <h3>球门区</h3>
+</d:entry>
+
+<d:entry id="goal difference" d:title="goal difference">
+    <d:index d:value="goal difference"/>
+    <h1>goal difference</h1>
+    <h3>净胜球数</h3>
+    <p>（译注：净胜球是进球数减去负球数，用于获胜场数相等的球队之间决定名次。）</p>
+</d:entry>
+
+<d:entry id="goal for" d:title="goal for">
+    <d:index d:value="goal for"/>
+    <h1>goal for</h1>
+    <h3>进球数</h3>
+</d:entry>
+
+<d:entry id="goal getter" d:title="goal getter">
+    <d:index d:value="goal getter"/>
+    <h1>goal getter</h1>
+    <h3>射门手；射门进球者</h3>
+</d:entry>
+
+<d:entry id="goal-getting pwoer" d:title="goal-getting pwoer">
+    <d:index d:value="goal-getting pwoer"/>
+    <h1>goal-getting pwoer</h1>
+    <h3>射门能力</h3>
+</d:entry>
+
+<d:entry id="goalie" d:title="goalie">
+    <d:index d:value="goalie"/>
+    <h1>goalie</h1>
+    <h3>守门员</h3>
+</d:entry>
+
+<d:entry id="goalkepper" d:title="goalkepper">
+    <d:index d:value="goalkepper"/>
+    <h1>goalkepper</h1>
+    <h3>守门员</h3>
+</d:entry>
+
+<d:entry id="goal-kick" d:title="goal-kick">
+    <d:index d:value="goal-kick"/>
+    <h1>goal-kick</h1>
+    <h3>球门球</h3>
+    <p>to take a goal-kick</p>
+    <p>踢球门球</p>
+</d:entry>
+
+<d:entry id="goal line" d:title="goal line">
+    <d:index d:value="goal line"/>
+    <h1>goal line</h1>
+    <h3>球门线</h3>
+</d:entry>
+
+<d:entry id="goal net" d:title="goal net">
+    <d:index d:value="goal net"/>
+    <h1>goal net</h1>
+    <h3>球网</h3>
+</d:entry>
+
+<d:entry id="goal post" d:title="goal post">
+    <d:index d:value="goal post"/>
+    <h1>goal post</h1>
+    <h3>球门柱</h3>
+</d:entry>
+
+<d:entry id="goal scorer" d:title="goal scorer">
+    <d:index d:value="goal scorer"/>
+    <h1>goal scorer</h1>
+    <h3>进球手</h3>
+    <p>He is the main goal scorer of our team.</p>
+    <p>他是我们队的主要进球手。</p>
+</d:entry>
+
+<d:entry id="goaltender" d:title="goaltender">
+    <d:index d:value="goaltender"/>
+    <h1>goaltender</h1>
+    <h3>守门员</h3>
+</d:entry>
+
+<d:entry id="graze" d:title="graze">
+    <d:index d:value="graze"/>
+    <h1>graze</h1>
+    <h3>擦过</h3>
+    <p>The ball grazed the crossbar.</p>
+    <p>球擦过球门横木。</p>
+</d:entry>
+
+<d:entry id="grazing shot" d:title="grazing shot">
+    <d:index d:value="grazing shot"/>
+    <h1>grazing shot</h1>
+    <h3>低射</h3>
+    <p>to make a grazing shot</p>
+    <p>低射</p>
+</d:entry>
+
+<d:entry id="ground ball" d:title="ground ball">
+    <d:index d:value="ground ball"/>
+    <h1>ground ball</h1>
+    <h3>地面球</h3>
+</d:entry>
+
+<d:entry id="ground pass" d:title="ground pass">
+    <d:index d:value="ground pass"/>
+    <h1>ground pass</h1>
+    <h3>地面传球</h3>
+</d:entry>
+
+<d:entry id="grouping" d:title="grouping">
+    <d:index d:value="grouping"/>
+    <h1>grouping</h1>
+    <h3>分组</h3>
+</d:entry>
+
+<d:entry id="guest team" d:title="guest team">
+    <d:index d:value="guest team"/>
+    <h1>guest team</h1>
+    <h3>客队</h3>
+    <p>The home team beat the guest team 2:1.</p>
+    <p>主队以 2:1 打败客队。</p>
 </d:entry>
 
 </d:dictionary>
