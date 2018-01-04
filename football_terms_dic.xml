@@ -2303,9 +2303,9 @@
     <h3>射门手；射门进球者</h3>
 </d:entry>
 
-<d:entry id="goal-getting pwoer" d:title="goal-getting pwoer">
-    <d:index d:value="goal-getting pwoer"/>
-    <h1>goal-getting pwoer</h1>
+<d:entry id="goal-getting power" d:title="goal-getting power">
+    <d:index d:value="goal-getting power"/>
+    <h1>goal-getting power</h1>
     <h3>射门能力</h3>
 </d:entry>
 
@@ -2401,6 +2401,277 @@
     <h3>客队</h3>
     <p>The home team beat the guest team 2:1.</p>
     <p>主队以 2:1 打败客队。</p>
+</d:entry>
+
+<d:entry id="half" d:title="half">
+    <d:index d:value="half"/>
+    <h1>half</h1>
+    <h3>半时</h3>
+</d:entry>
+
+<d:entry id="halfback" d:title="halfback">
+    <d:index d:value="halfback"/>
+    <h1>halfback</h1>
+    <h3>前卫；中前卫；中场队员</h3>
+</d:entry>
+
+<d:entry id="half time" d:title="half time">
+    <d:index d:value="half time"/>
+    <h1>half time</h1>
+    <h3>半时</h3>
+</d:entry>
+
+<d:entry id="half time interval" d:title="half time interval">
+    <d:index d:value="half time interval"/>
+    <h1>half time interval</h1>
+    <h3>半场休息</h3>
+</d:entry>
+
+<d:entry id="half volley" d:title="half volley">
+    <d:index d:value="half volley"/>
+    <h1>half volley</h1>
+    <h3>落地反弹球；反弹球</h3>
+</d:entry>
+
+<d:entry id="half-volley kick" d:title="half-volley kick">
+    <d:index d:value="half-volley kick"/>
+    <h1>half-volley kick</h1>
+    <h3>踢落地反弹球</h3>
+    <p>（译注：指在球刚落地反弹的一瞬间将球踢出。）</p>
+</d:entry>
+
+<d:entry id="halfway flag" d:title="halfway flag">
+    <d:index d:value="halfway flag"/>
+    <h1>halfway flag</h1>
+    <h3>中线旗</h3>
+</d:entry>
+
+<d:entry id="hand ball" d:title="hand ball">
+    <d:index d:value="hand ball"/>
+    <h1>hand ball</h1>
+    <h3>手触球；手球；手球犯规</h3>
+</d:entry>
+
+<d:entry id="handle the ball with hand" d:title="handle the ball with hand">
+    <d:index d:value="handle the ball with hand"/>
+    <h1>handle the ball with hand</h1>
+    <h3>用手或臂触球，带球或击球</h3>
+    <p>He handles (carries, strikes) the ball with his hand or arm.</p>
+    <p>他用手或手臂触摸球（带球，击球）。</p>
+</d:entry>
+
+<d:entry id="hanging shot" d:title="hanging shot">
+    <d:index d:value="hanging shot"/>
+    <h1>hanging shot</h1>
+    <h3>高吊球射门；挑射</h3>
+</d:entry>
+
+<d:entry id="hard shot" d:title="hard shot">
+    <d:index d:value="hard shot"/>
+    <h1>hard shot</h1>
+    <h3>劲射</h3>
+</d:entry>
+
+<d:entry id="hat trick" d:title="hat trick">
+    <d:index d:value="hat trick"/>
+    <h1>hat trick</h1>
+    <h3>帽子戏法；一人连进 3 球</h3>
+    <p>to hit a hat trick</p>
+    <p>独中三元</p>
+</d:entry>
+
+<d:entry id="head" d:title="head">
+    <d:index d:value="head"/>
+    <h1>head</h1>
+    <h3>头球</h3>
+    <p>to head at goal</p>
+    <p>顶球射门，头球攻门</p>
+    <p>to head with a jump</p>
+    <p>跳起顶球</p>
+    <p>to head in</p>
+    <p>顶球入门</p>
+    <p>to head the ball high</p>
+    <p>顶出高球</p>
+</d:entry>
+
+<d:entry id="head coach" d:title="head coach">
+    <d:index d:value="head coach"/>
+    <h1>head coach</h1>
+    <h3>主教练</h3>
+</d:entry>
+
+<d:entry id="header" d:title="header">
+    <d:index d:value="header"/>
+    <h1>header</h1>
+    <h3>头球</h3>
+    <p>He demonstrates excellent technique as he unleashes a powerful header.</p>
+    <p>他的头球强劲有力，显示出高超技术。</p>
+</d:entry>
+
+<d:entry id="head for distance" d:title="head for distance">
+    <d:index d:value="head for distance"/>
+    <h1>head for distance</h1>
+    <h3>远顶球</h3>
+</d:entry>
+
+<d:entry id="head home a goal" d:title="head home a goal">
+    <d:index d:value="head home a goal"/>
+    <h1>head home a goal</h1>
+    <h3>头球破门；顶球入门</h3>
+</d:entry>
+
+<d:entry id="head in" d:title="head in">
+    <d:index d:value="head in"/>
+    <h1>head in</h1>
+    <h3>头球破门；顶球入门</h3>
+</d:entry>
+
+<d:entry id="heading" d:title="heading">
+    <d:index d:value="heading"/>
+    <h1>heading</h1>
+    <h3>头球；顶球</h3>
+    <p>defensive heading</p>
+    <p>防御性的顶球</p>
+    <p>back heading</p>
+    <p>向后顶球</p>
+</d:entry>
+
+<d:entry id="heading ability" d:title="heading ability">
+    <d:index d:value="heading ability"/>
+    <h1>heading ability</h1>
+    <h3>头球技术；头球能力</h3>
+</d:entry>
+
+<d:entry id="heading duel" d:title="heading duel">
+    <d:index d:value="heading duel"/>
+    <h1>heading duel</h1>
+    <h3>争顶</h3>
+</d:entry>
+
+<d:entry id="heading with a jump" d:title="heading with a jump">
+    <d:index d:value="heading with a jump"/>
+    <h1>heading with a jump</h1>
+    <h3>跳起顶球</h3>
+</d:entry>
+
+<d:entry id="heel" d:title="heel">
+    <d:index d:value="heel"/>
+    <h1>heel</h1>
+    <h3>用脚后跟向后传球</h3>
+</d:entry>
+
+<d:entry id="heel kick" d:title="heel kick">
+    <d:index d:value="heel kick"/>
+    <h1>heel kick</h1>
+    <h3>脚后跟；用脚后跟向后传球</h3>
+</d:entry>
+
+<d:entry id="high-bouncing ball" d:title="high-bouncing ball">
+    <d:index d:value="high-bouncing ball"/>
+    <h1>high-bouncing ball</h1>
+    <h3>高跳球</h3>
+</d:entry>
+
+<d:entry id="high cross" d:title="high cross">
+    <d:index d:value="high cross"/>
+    <h1>high cross</h1>
+    <h3>高空传中；高球传中</h3>
+    <p>to make a high cross</p>
+    <p>高空传中；高球传中</p>
+</d:entry>
+
+<d:entry id="high kick" d:title="high kick">
+    <d:index d:value="high kick"/>
+    <h1>high kick</h1>
+    <h3>高踢；高球</h3>
+</d:entry>
+
+<d:entry id="highlight" d:title="highlight">
+    <d:index d:value="highlight"/>
+    <h1>highlight</h1>
+    <h3>精彩场面</h3>
+    <p>The second half passed without any highlight worthy of mention.</p>
+    <p>下半场比赛没有什么值得一提的精彩场面。</p>
+</d:entry>
+
+<d:entry id="high lobbing pass" d:title="high lobbing pass">
+    <d:index d:value="high lobbing pass"/>
+    <h1>high lobbing pass</h1>
+    <h3>高吊传球；过顶传球</h3>
+</d:entry>
+
+<d:entry id="high pass" d:title="high pass">
+    <d:index d:value="high pass"/>
+    <h1>high pass</h1>
+    <h3>空中传球</h3>
+    <p>to make a high pass</p>
+    <p>空中传球</p>
+</d:entry>
+
+<d:entry id="high shot" d:title="high shot">
+    <d:index d:value="high shot"/>
+    <h1>high shot</h1>
+    <h3>高吊球射门；挑射</h3>
+</d:entry>
+
+<d:entry id="hold" d:title="hold">
+    <d:index d:value="hold"/>
+    <h1>hold</h1>
+    <h3>抓；握；拉；扯</h3>
+    <p>He holds his opponent.</p>
+    <p>他拉扯对方球员。（犯规动作）</p>
+    <p>He held my hand (sleeve).</p>
+    <p>他抓住我的手（袖子）。</p>
+</d:entry>
+
+<d:entry id="holding" d:title="holding">
+    <d:index d:value="holding"/>
+    <h1>holding</h1>
+    <h3>用手或臂拉扯对方（犯规动作）</h3>
+    <p>Stop holding</p>
+    <p>不许拉人</p>
+</d:entry>
+
+<d:entry id="Home of Football" d:title="Home of Football">
+    <d:index d:value="Home of Football"/>
+    <h1>Home of Football</h1>
+    <h3>足球之乡</h3>
+</d:entry>
+
+<d:entry id="home side" d:title="home side">
+    <d:index d:value="home side"/>
+    <h1>home side</h1>
+    <h3>主队</h3>
+</d:entry>
+
+<d:entry id="home team" d:title="home team">
+    <d:index d:value="home team"/>
+    <h1>home team</h1>
+    <h3>主队</h3>
+</d:entry>
+
+<d:entry id="hook pass" d:title="hook pass">
+    <d:index d:value="hook pass"/>
+    <h1>hook pass</h1>
+    <h3>弧线传球</h3>
+</d:entry>
+
+<d:entry id="hook tackle" d:title="hook tackle">
+    <d:index d:value="hook tackle"/>
+    <h1>hook tackle</h1>
+    <h3>钩形脚法抢截</h3>
+</d:entry>
+
+<d:entry id="host country" d:title="host country">
+    <d:index d:value="host country"/>
+    <h1>host country</h1>
+    <h3>东道国</h3>
+</d:entry>
+
+<d:entry id="Hungarian formation" d:title="Hungarian formation">
+    <d:index d:value="Hungarian formation"/>
+    <h1>Hungarian formation</h1>
+    <h3>匈牙利阵式</h3>
 </d:entry>
 
 </d:dictionary>
