@@ -2883,4 +2883,100 @@
     <h3>跳起冲撞对手（犯规动作）</h3>
 </d:entry>
 
+<d:entry id="keeper" d:title="keeper">
+    <d:index d:value="keeper"/>
+    <h1>keeper</h1>
+    <h3>守门员</h3>
+</d:entry>
+
+<d:entry id="key figure" d:title="key figure">
+    <d:index d:value="key figure"/>
+    <h1>key figure</h1>
+    <h3>核心人物；核心队员</h3>
+    <p>His technical skills, vision and role in set plays made him a key figure in the team.</p>
+    <p>他技术高超，有预见性以及在定位进攻中的良好作用使他成为该队的核心人物。</p>
+</d:entry>
+
+<d:entry id="key player" d:title="key player">
+    <d:index d:value="key player"/>
+    <h1>key player</h1>
+    <h3>主力队员；核心队员</h3>
+    <p>A major handicap was the absence of serveral key players.</p>
+    <p>主要的不利因素是该队有几名主力队员不能上场。</p>
+</d:entry>
+
+<d:entry id="kick" d:title="kick">
+    <d:index d:value="kick"/>
+    <h1>kick</h1>
+    <h3>踢</h3>
+    <p>1. 作动词：</p>
+    <p>Kick the ball</p>
+    <p>踢球</p>
+    <p>2. 作名词：</p>
+    <p>That was a good kick.</p>
+    <p>那一脚踢得不错。</p>
+</d:entry>
+
+<d:entry id="kicker" d:title="kicker">
+    <d:index d:value="kicker"/>
+    <h1>kicker</h1>
+    <h3>罚球队员</h3>
+</d:entry>
+
+<d:entry id="kick off" d:title="kick off">
+    <d:index d:value="kick off"/>
+    <h1>kick off</h1>
+    <h3>开球；比赛开始；开始</h3>
+    <p>1. 作名词：</p>
+    <p>开球</p>
+    <p>After half-time, the kick-off shall be taken by a player of the opposite team.</p>
+    <p>下半场比赛，由对方球队开球。</p>
+    <p> 2. 作动词：</p>
+    <p>（足球比赛）开始</p>
+    <p>The match is due to kick off at 7:00 pm.</p>
+    <p>足球比赛预期在晚7时开始。</p>
+</d:entry>
+
+<d:entry id="kick-off circle" d:title="kick-off circle">
+    <d:index d:value="kick-off circle"/>
+    <h1>kick-off circle</h1>
+    <h3>中圈</h3>
+</d:entry>
+
+<d:entry id="kick the ball backward with the heel" d:title="kick the ball backward with the heel">
+    <d:index d:value="kick the ball backward with the heel"/>
+    <h1>kick the ball backward with the heel</h1>
+    <h3>用脚后跟向后传球</h3>
+</d:entry>
+
+<d:entry id="kick with the instep" d:title="kick with the instep">
+    <d:index d:value="kick with the instep"/>
+    <h1>kick with the instep</h1>
+    <h3>脚背踢球</h3>
+</d:entry>
+
+<d:entry id="kick with the sole" d:title="kick with the sole">
+    <d:index d:value="kick with the sole"/>
+    <h1>kick with the sole</h1>
+    <h3>脚掌踢球</h3>
+</d:entry>
+
+<d:entry id="knee pads" d:title="knee pads">
+    <d:index d:value="knee pads"/>
+    <h1>knee pads</h1>
+    <h3>护膝</h3>
+</d:entry>
+
+<d:entry id="kneeing" d:title="kneeing">
+    <d:index d:value="kneeing"/>
+    <h1>kneeing</h1>
+    <h3>用膝顶人</h3>
+</d:entry>
+
+<d:entry id="knock-out system with additional matches" d:title="knock-out system with additional matches">
+    <d:index d:value="knock-out system with additional matches"/>
+    <h1>knock-out system with additional matches</h1>
+    <h3>淘汰附加赛</h3>
+</d:entry>
+
 </d:dictionary>
