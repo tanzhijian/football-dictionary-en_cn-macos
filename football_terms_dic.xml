@@ -3181,4 +3181,133 @@
     <h3>成功率低的射门</h3>
 </d:entry>
 
+<d:entry id="major league" d:title="major league">
+    <d:index d:value="major league"/>
+    <h1>major league</h1>
+    <h3>甲级联赛</h3>
+</d:entry>
+
+<d:entry id="major offence" d:title="major offence">
+    <d:index d:value="major offence"/>
+    <h1>major offence</h1>
+    <h3>严重犯规</h3>
+</d:entry>
+
+<d:entry id="make space" d:title="make space">
+    <d:index d:value="make space"/>
+    <h1>make space</h1>
+    <h3>制造空当（制造空隙）</h3>
+</d:entry>
+
+<d:entry id="man-for-man marking" d:title="man-for-man marking">
+    <d:index d:value="man-for-man marking"/>
+    <h1>man-for-man marking</h1>
+    <h3>盯人防守</h3>
+</d:entry>
+
+<d:entry id="man-to-man marking" d:title="man-to-man marking">
+    <d:index d:value="man-to-man marking"/>
+    <h1>man-to-man marking</h1>
+    <h3>盯人防守</h3>
+</d:entry>
+
+<d:entry id="march in" d:title="march in">
+    <d:index d:value="march in"/>
+    <h1>march in</h1>
+    <h3>列队入场</h3>
+</d:entry>
+
+<d:entry id="mark space" d:title="mark space">
+    <d:index d:value="mark space"/>
+    <h1>mark space</h1>
+    <h3>区域联防</h3>
+</d:entry>
+
+<d:entry id="match" d:title="match">
+    <d:index d:value="match"/>
+    <h1>match</h1>
+    <h3>比赛</h3>
+    <p>play a football match</p>
+    <p>进行一场足球比赛</p>
+</d:entry>
+
+<d:entry id="match schedule" d:title="match schedule">
+    <d:index d:value="match schedule"/>
+    <h1>match schedule</h1>
+    <h3>比赛日程表</h3>
+</d:entry>
+
+<d:entry id="midfield" d:title="midfield">
+    <d:index d:value="midfield"/>
+    <h1>midfield</h1>
+    <h3>中场</h3>
+    <p>push up to midfield</p>
+    <p>逼近中场</p>
+    <p>fall back into midfield</p>
+    <p>后退至中场</p>
+</d:entry>
+
+<d:entry id="midfield player" d:title="midfield player">
+    <d:index d:value="midfield player"/>
+    <h1>midfield player</h1>
+    <h3>中场队员</h3>
+</d:entry>
+
+<d:entry id="mini-football" d:title="mini-football">
+    <d:index d:value="mini-football"/>
+    <h1>mini-football</h1>
+    <h3>小足球</h3>
+</d:entry>
+
+<d:entry id="mishit" d:title="mishit">
+    <d:index d:value="mishit"/>
+    <h1>mishit</h1>
+    <h3>未射中</h3>
+</d:entry>
+
+<d:entry id="miskick" d:title="miskick">
+    <d:index d:value="miskick"/>
+    <h1>miskick</h1>
+    <h3>漏球；踢得很糟的一脚球</h3>
+</d:entry>
+
+<d:entry id="mobile" d:title="mobile">
+    <d:index d:value="mobile"/>
+    <h1>mobile</h1>
+    <h3>活动范围大</h3>
+    <p>（译注：原意是活动的，流动的，灵活的，可根据上下文译为活动范围大。）</p>
+    <p>Player No.4 and player No.5 were not mobile enough.</p>
+    <p>4 号队员和 5 号队员活动范围不够大。</p>
+</d:entry>
+
+<d:entry id="mobility" d:title="mobility">
+    <d:index d:value="mobility"/>
+    <h1>mobility</h1>
+    <h3>灵活性；能动性；运动性；机动性</h3>
+    <p>The palyers showed good mobility and a willingness to run but, unfortunately at times, found themselves isolated without support.</p>
+    <p>这些队员表现得很机动灵活，也愿意奔跑，令人遗憾的是，他们时常处于孤立无援的状态。</p>
+</d:entry>
+
+<d:entry id="morale" d:title="morale">
+    <d:index d:value="morale"/>
+    <h1>morale</h1>
+    <h3>士气</h3>
+    <p>They morale of the team is perfect (low).</p>
+    <p>这个队的士气高昂（低落）。</p>
+</d:entry>
+
+<d:entry id="move" d:title="move">
+    <d:index d:value="move"/>
+    <h1>move</h1>
+    <h3>移动；前进</h3>
+    <p>The Koreans were able to move at top speed.</p>
+    <p>韩国队能高速向前推进。</p>
+</d:entry>
+
+<d:entry id="movement with the ball" d:title="movement with the ball">
+    <d:index d:value="movement with the ball"/>
+    <h1>movement with the ball</h1>
+    <h3>带球移动</h3>
+</d:entry>
+
 </d:dictionary>
