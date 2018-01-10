@@ -1,4 +1,4 @@
-MacOS Dictionary.app 的足球术语英汉词典
+macOS Dictionary.app 的足球术语英汉词典
 
 ![image](example.png)
 
