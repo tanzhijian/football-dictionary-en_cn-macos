@@ -5273,4 +5273,101 @@
     <h3>二打一</h3>
 </d:entry>
 
+<d:entry id="underdog" d:title="underdog">
+    <d:index d:value="underdog"/>
+    <h1>underdog</h1>
+    <h3>认为会失败的运动员或运动队</h3>
+    <p>（译注：underdog 原意是斗输了的狗；失败者。用于比赛，通常指在比赛中被认为会失败的运动员或队。）</p>
+</d:entry>
+
+<d:entry id="understanding" d:title="understanding">
+    <d:index d:value="understanding"/>
+    <h1>understanding</h1>
+    <h3>默契</h3>
+    <p>to have a good understanding</p>
+    <p>有良好的默契</p>
+</d:entry>
+
+<d:entry id="ungentlemanly conduct" d:title="ungentlemanly conduct">
+    <d:index d:value="ungentlemanly conduct"/>
+    <h1>ungentlemanly conduct</h1>
+    <h3>违背体育道德的行为；不正当行为</h3>
+    <p>（译注：ungentlemanly 原意是没有绅士风度的；缺乏教养的；粗鄙的。用于比赛，根据上下文可译为违背体育道德的；不正当的。）</p>
+</d:entry>
+
+<d:entry id="upfield" d:title="upfield">
+    <d:index d:value="upfield"/>
+    <h1>upfield</h1>
+    <h3>向前场</h3>
+    <p>advance the ball upfield</p>
+    <p>向前场传球</p>
+</d:entry>
+
+<d:entry id="UEFA" d:title="UEFA">
+    <d:index d:value="UEFA"/>
+    <h1>UEFA</h1>
+    <h3>欧洲足球协会联盟的缩写</h3>
+    <p>Union of European Football Association</p>
+</d:entry>
+
+<d:entry id="Union of European Football Association" d:title="Union of European Football Association">
+    <d:index d:value="Union of European Football Association"/>
+    <h1>Union of European Football Association</h1>
+    <h3>欧洲足球协会联盟</h3>
+    <p>UEFA</p>
+</d:entry>
+
+<d:entry id="upset" d:title="upset">
+    <d:index d:value="upset"/>
+    <h1>upset</h1>
+    <h3>爆冷门</h3>
+    <p>（译注：upset 原意是打翻；打乱；意外地击败对方。用于足球比赛根据上下文可译为爆冷门。）</p>
+</d:entry>
+
+<d:entry id="venue" d:title="venue">
+    <d:index d:value="venue"/>
+    <h1>venue</h1>
+    <h3>比赛地点</h3>
+</d:entry>
+
+<d:entry id="V-formation" d:title="V-formation">
+    <d:index d:value="V-formation"/>
+    <h1>V-formation</h1>
+    <h3>V 阵型</h3>
+</d:entry>
+
+<d:entry id="violent conduct" d:title="violent conduct">
+    <d:index d:value="violent conduct"/>
+    <h1>violent conduct</h1>
+    <h3>粗暴行为</h3>
+</d:entry>
+
+<d:entry id="violation of rules" d:title="violation of rules">
+    <d:index d:value="violation of rules"/>
+    <h1>violation of rules</h1>
+    <h3>违反规则</h3>
+</d:entry>
+
+<d:entry id="visiting team" d:title="visiting team">
+    <d:index d:value="visiting team"/>
+    <h1>visiting team</h1>
+    <h3>客队</h3>
+</d:entry>
+
+<d:entry id="volley" d:title="volley">
+    <d:index d:value="volley"/>
+    <h1>volley</h1>
+    <h3>凌空球；凌空射门</h3>
+    <p>1. 作名词：</p>
+    <p>凌空球</p>
+    <p>volley pass</p>
+    <p>凌空传球</p>
+    <p>volley shot</p>
+    <p>凌空射门</p>
+    <p>2. 作动词：</p>
+    <p>凌空踢球</p>
+    <p>The second player volleys the ball over the wall at goal.</p>
+    <p>第二名队员凌空射门，球绕过人墙。</p>
+</d:entry>
+
 </d:dictionary>
