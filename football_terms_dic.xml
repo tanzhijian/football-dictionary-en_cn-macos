@@ -5370,4 +5370,163 @@
     <p>第二名队员凌空射门，球绕过人墙。</p>
 </d:entry>
 
+<d:entry id="wall" d:title="wall">
+    <d:index d:value="wall"/>
+    <h1>wall</h1>
+    <h3>人墙</h3>
+    <p>a human wall / wall of players</p>
+    <p>人墙</p>
+</d:entry>
+
+<d:entry id="wall pass" d:title="wall pass">
+    <d:index d:value="wall pass"/>
+    <h1>wall pass</h1>
+    <h3>二过一；踢墙式二过一</h3>
+    <p>to use a wall pass combination</p>
+    <p>使用二过一配合</p>
+</d:entry>
+
+<d:entry id="warm-up competiion" d:title="warm-up competiion">
+    <d:index d:value="warm-up competiion"/>
+    <h1>warm-up competiion</h1>
+    <h3>热身赛</h3>
+</d:entry>
+
+<d:entry id="weakness" d:title="weakness">
+    <d:index d:value="weakness"/>
+    <h1>weakness</h1>
+    <h3>弱点</h3>
+</d:entry>
+
+<d:entry id="weak point" d:title="weak point">
+    <d:index d:value="weak point"/>
+    <h1>weak point</h1>
+    <h3>弱点</h3>
+</d:entry>
+
+<d:entry id="whitewash" d:title="whitewash">
+    <d:index d:value="whitewash"/>
+    <h1>whitewash</h1>
+    <h3>大获全胜（使对方得零分）</h3>
+    <p>Team A whitewashed Team B 6:0</p>
+</d:entry>
+
+<d:entry id="whip the ball into the net" d:title="whip the ball into the net">
+    <d:index d:value="whip the ball into the net"/>
+    <h1>whip the ball into the net</h1>
+    <h3>突然起脚将球射入网内</h3>
+</d:entry>
+
+<d:entry id="wide" d:title="wide">
+    <d:index d:value="wide"/>
+    <h1>wide</h1>
+    <h3>偏</h3>
+    <p>The balkl went wide.</p>
+    <p>球踢偏了。</p>
+</d:entry>
+
+<d:entry id="will power" d:title="will power">
+    <d:index d:value="will power"/>
+    <h1>will power</h1>
+    <h3>意志；意志力</h3>
+</d:entry>
+
+<d:entry id="win by a narrow margin" d:title="win by a narrow margin">
+    <d:index d:value="win by a narrow margin"/>
+    <h1>win by a narrow margin</h1>
+    <h3>险胜</h3>
+</d:entry>
+
+<d:entry id="wing" d:title="wing">
+    <d:index d:value="wing"/>
+    <h1>wing</h1>
+    <h3>边锋</h3>
+</d:entry>
+
+<d:entry id="winger" d:title="winger">
+    <d:index d:value="winger"/>
+    <h1>winger</h1>
+    <h3>边锋</h3>
+</d:entry>
+
+<d:entry id="wing forward" d:title="wing forward">
+    <d:index d:value="wing forward"/>
+    <h1>wing forward</h1>
+    <h3>边锋</h3>
+</d:entry>
+
+<d:entry id="wing half-back" d:title="wing half-back">
+    <d:index d:value="wing half-back"/>
+    <h1>wing half-back</h1>
+    <h3>边前卫</h3>
+</d:entry>
+
+<d:entry id="wing play" d:title="wing play">
+    <d:index d:value="wing play"/>
+    <h1>wing play</h1>
+    <h3>边锋战术（边线打法）</h3>
+</d:entry>
+
+<d:entry id="winner's cup" d:title="winner's cup">
+    <d:index d:value="winner's cup"/>
+    <h1>winner's cup</h1>
+    <h3>优胜者杯；奖杯</h3>
+</d:entry>
+
+<d:entry id="winning goal" d:title="winning goal">
+    <d:index d:value="winning goal"/>
+    <h1>winning goal</h1>
+    <h3>致胜的一球</h3>
+</d:entry>
+
+<d:entry id="winning team" d:title="winning team">
+    <d:index d:value="winning team"/>
+    <h1>winning team</h1>
+    <h3>优胜队</h3>
+</d:entry>
+
+<d:entry id="withdraw" d:title="withdraw">
+    <d:index d:value="withdraw"/>
+    <h1>withdraw</h1>
+    <h3>退出比赛</h3>
+    <p>They withdrew from the competition.</p>
+    <p>他们退出了比赛。</p>
+</d:entry>
+
+<d:entry id="withdrawal" d:title="withdrawal">
+    <d:index d:value="withdrawal"/>
+    <h1>withdrawal</h1>
+    <h3>退出比赛</h3>
+</d:entry>
+
+<d:entry id="world champion team" d:title="world champion team">
+    <d:index d:value="world champion team"/>
+    <h1>world champion team</h1>
+    <h3>世界冠军队</h3>
+</d:entry>
+
+<d:entry id="World Cup" d:title="World Cup">
+    <d:index d:value="World Cup"/>
+    <h1>World Cup</h1>
+    <h3>世界杯</h3>
+</d:entry>
+
+<d:entry id="world level teams" d:title="world level teams">
+    <d:index d:value="world level teams"/>
+    <h1>world level teams</h1>
+    <h3>世界级强队</h3>
+</d:entry>
+
+<d:entry id="yellow card" d:title="yellow card">
+    <d:index d:value="yellow card"/>
+    <h1>yellow card</h1>
+    <h3>黄牌</h3>
+</d:entry>
+
+<d:entry id="zonal defence" d:title="zonal defence">
+    <d:index d:value="zonal defence"/>
+    <h1>zonal defence</h1>
+    <h3>区域联防</h3>
+</d:entry>
+
 </d:dictionary>
