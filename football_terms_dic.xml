@@ -23,6 +23,12 @@
     <p>全称 abbreviation for Asian Football Confederation</p>
 </d:entry>
 
+<d:entry id="agent fee" d:title="agent fee">
+    <d:index d:value="agent fee"/>
+    <h1>agent fee</h1>
+    <h3>经纪人费</h3>
+</d:entry>
+
 <d:entry id="aggregate score" d:title="aggregate score">
     <d:index d:value="aggregate score"/>
     <h1>aggregate score</h1>
@@ -163,6 +169,16 @@
     <h3>从两翼进攻</h3>
 </d:entry>
 
+<d:entry id="attack-oriented" d:title="attack-oriented">
+    <d:index d:value="attack-oriented"/>
+    <h1>attack-oriented</h1>
+    <h3>以进攻为主的，进攻型的</h3>
+    <p>attack-oriented players / team</p>
+    <p>进攻型的队员 / 队</p>
+    <p>Spain is an attack-oriented team.</p>
+    <p>西拔牙是一支进攻型的球队。</p>
+</d:entry>
+
 <d:entry id="attacker" d:title="attacker">
     <d:index d:value="attacker"/>
     <h1>attacker</h1>
@@ -201,16 +217,6 @@
     <p>他们敢于在前场冒险，反映出他们有很大的勇气。</p>
     <p>The Scots were prepared to win the ball back in the attacking third.</p>
     <p>苏格兰队准备在前场把球夺回来。</p>
-</d:entry>
-
-<d:entry id="attack-oriented" d:title="attack-oriented">
-    <d:index d:value="attack-oriented"/>
-    <h1>attack-oriented</h1>
-    <h3>以进攻为主的，进攻型的</h3>
-    <p>attack-oriented players / team</p>
-    <p>进攻型的队员 / 队</p>
-    <p>Spain is an attack-oriented team.</p>
-    <p>西拔牙是一支进攻型的球队。</p>
 </d:entry>
 
 <d:entry id="back" d:title="back">
@@ -291,16 +297,22 @@
     <p>香蕉式射门的主要目的是迷惑守门员，把他的注意力引向错误的方向。</p>
 </d:entry>
 
+<d:entry id="basic skills" d:title="basic skills">
+    <d:index d:value="basic skills"/>
+    <h1>basic skills</h1>
+    <h3>基本功（基本技术）</h3>
+</d:entry>
+
 <d:entry id="basics" d:title="basics">
     <d:index d:value="basics"/>
     <h1>basics</h1>
     <h3>基本功</h3>
 </d:entry>
 
-<d:entry id="basic skills" d:title="basic skills">
-    <d:index d:value="basic skills"/>
-    <h1>basic skills</h1>
-    <h3>基本功（基本技术）</h3>
+<d:entry id="be hungry for goal" d:title="be hungry for goal">
+    <d:index d:value="be hungry for goal"/>
+    <h1>be hungry for goal</h1>
+    <h3>射门意识强</h3>
 </d:entry>
 
 <d:entry id="beat" d:title="beat">
@@ -317,12 +329,6 @@
     <p>2. 打败</p>
     <p>Italy beat Nigeria 2:1.</p>
     <p>意大利队 2:1 打败尼日利亚队。</p>
-</d:entry>
-
-<d:entry id="be hungry for goal" d:title="be hungry for goal">
-    <d:index d:value="be hungry for goal"/>
-    <h1>be hungry for goal</h1>
-    <h3>射门意识强</h3>
 </d:entry>
 
 <d:entry id="below one's best" d:title="below one's best">
@@ -417,12 +423,6 @@
     <h3>球网右下角</h3>
 </d:entry>
 
-<d:entry id="bounce shot" d:title="bounce shot">
-    <d:index d:value="bounce shot"/>
-    <h1>bounce shot</h1>
-    <h3>弹射</h3>
-</d:entry>
-
 <d:entry id="bounce" d:title="bounce">
     <d:index d:value="bounce"/>
     <h1>bounce</h1>
@@ -431,6 +431,12 @@
     <p>球触球门柱弹出。</p>
     <p>The ball bounced in front of the goal.</p>
     <p>球在球门前弹起。</p>
+</d:entry>
+
+<d:entry id="bounce shot" d:title="bounce shot">
+    <d:index d:value="bounce shot"/>
+    <h1>bounce shot</h1>
+    <h3>弹射</h3>
 </d:entry>
 
 <d:entry id="boundary line" d:title="boundary line">
@@ -463,6 +469,12 @@
     <p>他们多次从侧翼突破了美国队的防线。</p>
 </d:entry>
 
+<d:entry id="break up an attack" d:title="break up an attack">
+    <d:index d:value="break up an attack"/>
+    <h1>break up an attack</h1>
+    <h3>破坏对方的攻势</h3>
+</d:entry>
+
 <d:entry id="breakthrough" d:title="breakthrough">
     <d:index d:value="breakthrough"/>
     <h1>breakthrough</h1>
@@ -471,24 +483,10 @@
     <p>进行一次突破</p>
 </d:entry>
 
-<d:entry id="break up an attack" d:title="break up an attack">
-    <d:index d:value="break up an attack"/>
-    <h1>break up an attack</h1>
-    <h3>破坏对方的攻势</h3>
-</d:entry>
-
 <d:entry id="brilliant performance" d:title="brilliant performance">
     <d:index d:value="brilliant performance"/>
     <h1>brilliant performance</h1>
     <h3>出色的表演，精彩的表演</h3>
-</d:entry>
-
-<d:entry id="build-up" d:title="build-up">
-    <d:index d:value="build-up"/>
-    <h1>build-up</h1>
-    <h3>组合，集结兵力</h3>
-    <p>The Bahrian players were very patient in their build-up.</p>
-    <p>巴林队员在组织进攻时表现出很大的耐心。</p>
 </d:entry>
 
 <d:entry id="build up an attack" d:title="build up an attack">
@@ -501,6 +499,14 @@
     <p>通过长传，转移也可以在球场右侧组织进攻。</p>
     <p>They built up their attack quickly.</p>
     <p>他们快速的组织进攻。</p>
+</d:entry>
+
+<d:entry id="build-up" d:title="build-up">
+    <d:index d:value="build-up"/>
+    <h1>build-up</h1>
+    <h3>组合，集结兵力</h3>
+    <p>The Bahrian players were very patient in their build-up.</p>
+    <p>巴林队员在组织进攻时表现出很大的耐心。</p>
 </d:entry>
 
 <d:entry id="bully" d:title="bully">
@@ -519,6 +525,13 @@
     <d:index d:value="bye"/>
     <h1>bye</h1>
     <h3>轮空</h3>
+</d:entry>
+
+<d:entry id="CAF" d:title="CAF">
+    <d:index d:value="CAF"/>
+    <h1>CAF</h1>
+    <h3>非洲足球联合会</h3>
+    <p>全称是 Confederation Africaine de Football</p>
 </d:entry>
 
 <d:entry id="call for the ball" d:title="call for the ball">
@@ -581,17 +594,11 @@
     <p>如一个队员警告后仍坚持不正当行为，应将其罚出场。</p>
 </d:entry>
 
-<d:entry id="central circle" d:title="central circle">
-    <d:index d:value="central circle"/>
-    <h1>central circle</h1>
-    <h3>中圈</h3>
-</d:entry>
-
-<d:entry id="centre" d:title="centre">
-    <d:index d:value="centre"/>
-    <h1>centre</h1>
+<d:entry id="center" d:title="center">
+    <d:index d:value="center"/>
+    <h1>center</h1>
     <h3>中心，中心点；传中</h3>
-    <p>（美国英语） = center</p>
+    <p>（美国英语） = centre</p>
     <p>1. 作动词：</p>
     <p>to centre the ball</p>
     <p>将球传中</p>
@@ -604,11 +611,17 @@
     <p>边锋左路突破，低球传中入禁区。</p>
 </d:entry>
 
-<d:entry id="center" d:title="center">
-    <d:index d:value="center"/>
-    <h1>center</h1>
+<d:entry id="central circle" d:title="central circle">
+    <d:index d:value="central circle"/>
+    <h1>central circle</h1>
+    <h3>中圈</h3>
+</d:entry>
+
+<d:entry id="centre" d:title="centre">
+    <d:index d:value="centre"/>
+    <h1>centre</h1>
     <h3>中心，中心点；传中</h3>
-    <p>（美国英语） = centre</p>
+    <p>（美国英语） = center</p>
     <p>1. 作动词：</p>
     <p>to centre the ball</p>
     <p>将球传中</p>
@@ -671,23 +684,10 @@
     <p>abbreviation for Chinese Football Association</p>
 </d:entry>
 
-<d:entry id="CHB" d:title="CHB">
-    <d:index d:value="CHB"/>
-    <h1>CHB</h1>
-    <h3>中卫的缩写</h3>
-    <p>abbreviation for centre halfback</p>
-</d:entry>
-
 <d:entry id="challenge for the ball" d:title="challenge for the ball">
     <d:index d:value="challenge for the ball"/>
     <h1>challenge for the ball</h1>
     <h3>抢球，争球</h3>
-</d:entry>
-
-<d:entry id="change position" d:title="change position">
-    <d:index d:value="change position"/>
-    <h1>change position</h1>
-    <h3>换位</h3>
 </d:entry>
 
 <d:entry id="champions" d:title="champions">
@@ -698,6 +698,12 @@
     <p>世界冠军队</p>
     <p>the defending champions</p>
     <p>卫冕冠军队（本届冠军队）</p>
+</d:entry>
+
+<d:entry id="change position" d:title="change position">
+    <d:index d:value="change position"/>
+    <h1>change position</h1>
+    <h3>换位</h3>
 </d:entry>
 
 <d:entry id="charge" d:title="charge">
@@ -728,6 +734,13 @@
     <h3>从后面冲撞</h3>
 </d:entry>
 
+<d:entry id="CHB" d:title="CHB">
+    <d:index d:value="CHB"/>
+    <h1>CHB</h1>
+    <h3>中卫的缩写</h3>
+    <p>abbreviation for centre halfback</p>
+</d:entry>
+
 <d:entry id="cheer-leader" d:title="cheer-leader">
     <d:index d:value="cheer-leader"/>
     <h1>cheer-leader</h1>
@@ -750,6 +763,12 @@
     <d:index d:value="chesting-high ball"/>
     <h1>chesting-high ball</h1>
     <h3>平胸球</h3>
+</d:entry>
+
+<d:entry id="chilena" d:title="chilena">
+    <d:index d:value="chilena"/>
+    <h1>chilena</h1>
+    <h3>代指倒钩球</h3>
 </d:entry>
 
 <d:entry id="chip" d:title="chip">
@@ -786,6 +805,12 @@
     <p>比赛开始前，两队可用投币方式来选择场区和开球权。胜者有选择场区或开球的优先权。</p>
 </d:entry>
 
+<d:entry id="clean sheet bouns" d:title="clean sheet bouns">
+    <d:index d:value="clean sheet bouns"/>
+    <h1>clean sheet bouns</h1>
+    <h3>不失球奖金</h3>
+</d:entry>
+
 <d:entry id="clear" d:title="clear">
     <d:index d:value="clear"/>
     <h1>clear</h1>
@@ -811,16 +836,16 @@
     <p>解除危险的一脚球（大脚解围）</p>
 </d:entry>
 
-<d:entry id="close defence" d:title="close defence">
-    <d:index d:value="close defence"/>
-    <h1>close defence</h1>
-    <h3>密集防守，紧密防守</h3>
-</d:entry>
-
 <d:entry id="close contest" d:title="close contest">
     <d:index d:value="close contest"/>
     <h1>close contest</h1>
     <h3>势均力敌的比赛，比分接近的比赛</h3>
+</d:entry>
+
+<d:entry id="close defence" d:title="close defence">
+    <d:index d:value="close defence"/>
+    <h1>close defence</h1>
+    <h3>密集防守，紧密防守</h3>
 </d:entry>
 
 <d:entry id="close encounter" d:title="close encounter">
@@ -843,16 +868,16 @@
     <h3>盯人防守</h3>
 </d:entry>
 
-<d:entry id="close-range shot" d:title="close-range shot">
-    <d:index d:value="close-range shot"/>
-    <h1>close-range shot</h1>
-    <h3>近射</h3>
-</d:entry>
-
 <d:entry id="close up on an attacker" d:title="close up on an attacker">
     <d:index d:value="close up on an attacker"/>
     <h1>close up on an attacker</h1>
     <h3>紧迫攻方队员</h3>
+</d:entry>
+
+<d:entry id="close-range shot" d:title="close-range shot">
+    <d:index d:value="close-range shot"/>
+    <h1>close-range shot</h1>
+    <h3>近射</h3>
 </d:entry>
 
 <d:entry id="club" d:title="club">
@@ -895,12 +920,6 @@
     <h3>不精彩的足球比赛，没有特色的足球比赛或译为平淡无奇的足球比赛</h3>
 </d:entry>
 
-<d:entry id="come from behind to win the game" d:title="come from behind to win the game">
-    <d:index d:value="come from behind to win the game"/>
-    <h1>come from behind to win the game</h1>
-    <h3>反败为胜</h3>
-</d:entry>
-
 <d:entry id="combination" d:title="combination">
     <d:index d:value="combination"/>
     <h1>combination</h1>
@@ -925,6 +944,12 @@
     <h3>配合打法；短传配合打法</h3>
     <p>to use the combination play</p>
     <p>使用短传配合的打法</p>
+</d:entry>
+
+<d:entry id="come from behind to win the game" d:title="come from behind to win the game">
+    <d:index d:value="come from behind to win the game"/>
+    <h1>come from behind to win the game</h1>
+    <h3>反败为胜</h3>
 </d:entry>
 
 <d:entry id="commit an opponent" d:title="commit an opponent">
@@ -954,6 +979,13 @@
     <p>苏格兰队表现得沉着冷静，开始占据上风。</p>
 </d:entry>
 
+<d:entry id="CONCACAF" d:title="CONCACAF">
+    <d:index d:value="CONCACAF"/>
+    <h1>CONCACAF</h1>
+    <h3>北美，中美和加勒比地区足球联合会</h3>
+    <p>全称是 Confederacion Norte-Centroamericana y del Caribe de Futbol</p>
+</d:entry>
+
 <d:entry id="concede a goal" d:title="concede a goal">
     <d:index d:value="concede a goal"/>
     <h1>concede a goal</h1>
@@ -967,36 +999,22 @@
     <p>西班牙队共攻入 11 球，未失一球。</p>
 </d:entry>
 
-<d:entry id="Confederation Africaine de Football" d:title="Confederation Africaine de Football">
-    <d:index d:value="Confederation Africaine de Football"/>
-    <h1>Confederation Africaine de Football</h1>
-    <h3>非洲足球联合会（缩写为 CAF）</h3>
-</d:entry>
-
-<d:entry id="CAF" d:title="CAF">
-    <d:index d:value="CAF"/>
-    <h1>CAF</h1>
-    <h3>非洲足球联合会</h3>
-    <p>全称是 Confederation Africaine de Football</p>
-</d:entry>
-
 <d:entry id="Confederacion Norte-Centroamericana y del Caribe de Futbol" d:title="Confederacion Norte-Centroamericana y del Caribe de Futbol">
     <d:index d:value="Confederacion Norte-Centroamericana y del Caribe de Futbol"/>
     <h1>Confederacion Norte-Centroamericana y del Caribe de Futbol</h1>
     <h3>北美，中美和加勒比地区足球联合会（缩写为 CONCACAF）</h3>
 </d:entry>
 
-<d:entry id="CONCACAF" d:title="CONCACAF">
-    <d:index d:value="CONCACAF"/>
-    <h1>CONCACAF</h1>
-    <h3>北美，中美和加勒比地区足球联合会</h3>
-    <p>全称是 Confederacion Norte-Centroamericana y del Caribe de Futbol</p>
-</d:entry>
-
 <d:entry id="Confederacion Sudamericana de Futbol" d:title="Confederacion Sudamericana de Futbol">
     <d:index d:value="Confederacion Sudamericana de Futbol"/>
     <h1>Confederacion Sudamericana de Futbol</h1>
     <h3>南美洲足球联合会（缩写为 CONMEBOL）</h3>
+</d:entry>
+
+<d:entry id="Confederation Africaine de Football" d:title="Confederation Africaine de Football">
+    <d:index d:value="Confederation Africaine de Football"/>
+    <h1>Confederation Africaine de Football</h1>
+    <h3>非洲足球联合会（缩写为 CAF）</h3>
 </d:entry>
 
 <d:entry id="CONMEBOL" d:title="CONMEBOL">
@@ -1083,6 +1101,12 @@
     <h3>补位</h3>
 </d:entry>
 
+<d:entry id="cover up the ball" d:title="cover up the ball">
+    <d:index d:value="cover up the ball"/>
+    <h1>cover up the ball</h1>
+    <h3>用身体掩护球</h3>
+</d:entry>
+
 <d:entry id="covering" d:title="covering">
     <d:index d:value="covering"/>
     <h1>covering</h1>
@@ -1091,22 +1115,16 @@
     <p>这个队在选位和补位方面确实存在问题。</p>
 </d:entry>
 
-<d:entry id="cover up the ball" d:title="cover up the ball">
-    <d:index d:value="cover up the ball"/>
-    <h1>cover up the ball</h1>
-    <h3>用身体掩护球</h3>
+<d:entry id="crash volley" d:title="crash volley">
+    <d:index d:value="crash volley"/>
+    <h1>crash volley</h1>
+    <h3>抢点直接临空射门</h3>
 </d:entry>
 
 <d:entry id="crashing shot" d:title="crashing shot">
     <d:index d:value="crashing shot"/>
     <h1>crashing shot</h1>
     <h3>猛射；大力射门</h3>
-</d:entry>
-
-<d:entry id="crash volley" d:title="crash volley">
-    <d:index d:value="crash volley"/>
-    <h1>crash volley</h1>
-    <h3>抢点直接临空射门</h3>
 </d:entry>
 
 <d:entry id="create openings" d:title="create openings">
@@ -1145,20 +1163,20 @@
     <p>他提出一个绝妙的传中球将球传给队友。</p>
 </d:entry>
 
-<d:entry id="cross-bar" d:title="cross-bar">
-    <d:index d:value="cross-bar"/>
-    <h1>cross-bar</h1>
-    <h3>横木</h3>
-    <p>The ball rebounds from a cross-bar into the field of play.</p>
-    <p>球从横木弹回场内。</p>
-</d:entry>
-
 <d:entry id="cross pass" d:title="cross pass">
     <d:index d:value="cross pass"/>
     <h1>cross pass</h1>
     <h3>传中球</h3>
     <p>to make a cross pass</p>
     <p>踢一个传中球</p>
+</d:entry>
+
+<d:entry id="cross-bar" d:title="cross-bar">
+    <d:index d:value="cross-bar"/>
+    <h1>cross-bar</h1>
+    <h3>横木</h3>
+    <p>The ball rebounds from a cross-bar into the field of play.</p>
+    <p>球从横木弹回场内。</p>
 </d:entry>
 
 <d:entry id="curl" d:title="curl">
@@ -1222,18 +1240,18 @@
     <p>做一个假动作</p>
 </d:entry>
 
+<d:entry id="deep-lying centre-forward" d:title="deep-lying centre-forward">
+    <d:index d:value="deep-lying centre-forward"/>
+    <h1>deep-lying centre-forward</h1>
+    <h3>拖后中锋</h3>
+</d:entry>
+
 <d:entry id="defeat" d:title="defeat">
     <d:index d:value="defeat"/>
     <h1>defeat</h1>
     <h3>打败，击败</h3>
     <p>Team A defeated Team B.</p>
     <p>甲队打败乙队。</p>
-</d:entry>
-
-<d:entry id="deep-lying centre-forward" d:title="deep-lying centre-forward">
-    <d:index d:value="deep-lying centre-forward"/>
-    <h1>deep-lying centre-forward</h1>
-    <h3>拖后中锋</h3>
 </d:entry>
 
 <d:entry id="defence" d:title="defence">
@@ -1251,12 +1269,6 @@
     <p>组织防御</p>
     <p>to strengthen the defence</p>
     <p>加强防御</p>
-</d:entry>
-
-<d:entry id="4-2-4 defence" d:title="4-2-4 defence">
-    <d:index d:value="4-2-4 defence"/>
-    <h1>4-2-4 defence</h1>
-    <h3>4-2-4 防守，4-2-4 阵式</h3>
 </d:entry>
 
 <d:entry id="defender" d:title="defender">
@@ -1295,20 +1307,20 @@
     <h3>防守型足球</h3>
 </d:entry>
 
-<d:entry id="defensively oriented" d:title="defensively oriented">
-    <d:index d:value="defensively oriented"/>
-    <h1>defensively oriented</h1>
-    <h3>以防御为主，防守型的</h3>
-    <p>defensively-iriented player / team</p>
-    <p>防守型的队员 / 队</p>
-</d:entry>
-
 <d:entry id="defensive third" d:title="defensive third">
     <d:index d:value="defensive third"/>
     <h1>defensive third</h1>
     <h3>后场</h3>
     <p>They carried the ball from their defensive third into the midfield.</p>
     <p>他们把球从后场带到中场。</p>
+</d:entry>
+
+<d:entry id="defensively oriented" d:title="defensively oriented">
+    <d:index d:value="defensively oriented"/>
+    <h1>defensively oriented</h1>
+    <h3>以防御为主，防守型的</h3>
+    <p>defensively-iriented player / team</p>
+    <p>防守型的队员 / 队</p>
 </d:entry>
 
 <d:entry id="deficit" d:title="deficit">
@@ -1479,6 +1491,12 @@
     <p>带球过人</p>
 </d:entry>
 
+<d:entry id="dribble one's say forward" d:title="dribble one's say forward">
+    <d:index d:value="dribble one's say forward"/>
+    <h1>dribble one's say forward</h1>
+    <h3>盘球前进</h3>
+</d:entry>
+
 <d:entry id="dribbler" d:title="dribbler">
     <d:index d:value="dribbler"/>
     <h1>dribbler</h1>
@@ -1487,12 +1505,6 @@
     <p>强有力的带球队员</p>
     <p>He is a superb dirbbler.</p>
     <p>他带球（盘球）技术高超。</p>
-</d:entry>
-
-<d:entry id="dribble one's say forward" d:title="dribble one's say forward">
-    <d:index d:value="dribble one's say forward"/>
-    <h1>dribble one's say forward</h1>
-    <h3>盘球前进</h3>
 </d:entry>
 
 <d:entry id="dribbling feint" d:title="dribbling feint">
@@ -1521,6 +1533,12 @@
     <h3>兴奋剂检查</h3>
 </d:entry>
 
+<d:entry id="eblow pads" d:title="eblow pads">
+    <d:index d:value="eblow pads"/>
+    <h1>eblow pads</h1>
+    <h3>护肘</h3>
+</d:entry>
+
 <d:entry id="eighth-finals" d:title="eighth-finals">
     <d:index d:value="eighth-finals"/>
     <h1>eighth-finals</h1>
@@ -1539,12 +1557,6 @@
     <d:index d:value="elbowing"/>
     <h1>elbowing</h1>
     <h3>用肘撞人</h3>
-</d:entry>
-
-<d:entry id="eblow pads" d:title="eblow pads">
-    <d:index d:value="eblow pads"/>
-    <h1>eblow pads</h1>
-    <h3>护肘</h3>
 </d:entry>
 
 <d:entry id="eleven" d:title="eleven">
@@ -1575,6 +1587,13 @@
     <h3>晃过</h3>
     <p>to elude a defender</p>
     <p>晃过防守队员</p>
+</d:entry>
+
+<d:entry id="en" d:title="en">
+    <d:index d:value="en"/>
+    <h1>en</h1>
+    <h3>cn</h3>
+    <p>examples</p>
 </d:entry>
 
 <d:entry id="encounter" d:title="encounter">
@@ -1730,12 +1749,6 @@
     <h3>夺标呼声很高的球队，夺标热门队</h3>
 </d:entry>
 
-<d:entry id="FIFA" d:title="FIFA">
-    <d:index d:value="FIFA"/>
-    <h1>FIFA</h1>
-    <h3>国际足球联合会，国际足联</h3>
-</d:entry>
-
 <d:entry id="Federation Internationale de Football Association" d:title="Federation Internationale de Football Association">
     <d:index d:value="Federation Internationale de Football Association"/>
     <h1>Federation Internationale de Football Association</h1>
@@ -1777,6 +1790,12 @@
     <p>应罚令该队员出场。</p>
 </d:entry>
 
+<d:entry id="FIFA" d:title="FIFA">
+    <d:index d:value="FIFA"/>
+    <h1>FIFA</h1>
+    <h3>国际足球联合会，国际足联</h3>
+</d:entry>
+
 <d:entry id="fighting spirit" d:title="fighting spirit">
     <d:index d:value="fighting spirit"/>
     <h1>fighting spirit</h1>
@@ -1789,33 +1808,6 @@
     <h3>补位；填补空隙</h3>
 </d:entry>
 
-<d:entry id="final competition" d:title="final competition">
-    <d:index d:value="final competition"/>
-    <h1>final competition</h1>
-    <h3>决赛</h3>
-</d:entry>
-
-<d:entry id="finals" d:title="finals">
-    <d:index d:value="finals"/>
-    <h1>finals</h1>
-    <h3>决赛</h3>
-    <p>（译注：final 用于决赛通常使用复数，指决赛的许多场比赛，如指的是随后一场决赛，是用单数）</p>
-    <p>to qualifield to play in the fnals</p>
-    <p>有资格参加决赛</p>
-</d:entry>
-
-<d:entry id="final round" d:title="final round">
-    <d:index d:value="final round"/>
-    <h1>final round</h1>
-    <h3>决赛；最后一轮比赛</h3>
-</d:entry>
-
-<d:entry id="final 8" d:title="final 8">
-    <d:index d:value="final 8"/>
-    <h1>final 8</h1>
-    <h3>8 强</h3>
-</d:entry>
-
 <d:entry id="final 16" d:title="final 16">
     <d:index d:value="final 16"/>
     <h1>final 16</h1>
@@ -1826,6 +1818,24 @@
     <d:index d:value="final 24"/>
     <h1>final 24</h1>
     <h3>24 个出线队</h3>
+</d:entry>
+
+<d:entry id="final 8" d:title="final 8">
+    <d:index d:value="final 8"/>
+    <h1>final 8</h1>
+    <h3>8 强</h3>
+</d:entry>
+
+<d:entry id="final competition" d:title="final competition">
+    <d:index d:value="final competition"/>
+    <h1>final competition</h1>
+    <h3>决赛</h3>
+</d:entry>
+
+<d:entry id="final round" d:title="final round">
+    <d:index d:value="final round"/>
+    <h1>final round</h1>
+    <h3>决赛；最后一轮比赛</h3>
 </d:entry>
 
 <d:entry id="final third of the field" d:title="final third of the field">
@@ -1845,6 +1855,15 @@
     <p>本届锦标赛夺标呼声很高的荷兰队在加时赛中，虽然给丹麦队造成威胁，但临门一脚时机未掌握好，始终未能破门得分。</p>
 </d:entry>
 
+<d:entry id="finals" d:title="finals">
+    <d:index d:value="finals"/>
+    <h1>finals</h1>
+    <h3>决赛</h3>
+    <p>（译注：final 用于决赛通常使用复数，指决赛的许多场比赛，如指的是随后一场决赛，是用单数）</p>
+    <p>to qualifield to play in the fnals</p>
+    <p>有资格参加决赛</p>
+</d:entry>
+
 <d:entry id="finesse in football skills" d:title="finesse in football skills">
     <d:index d:value="finesse in football skills"/>
     <h1>finesse in football skills</h1>
@@ -1857,6 +1876,12 @@
     <d:index d:value="finger-tip save"/>
     <h1>finger-tip save</h1>
     <h3>（守门员）托救球</h3>
+</d:entry>
+
+<d:entry id="finish off" d:title="finish off">
+    <d:index d:value="finish off"/>
+    <h1>finish off</h1>
+    <h3>最后打败；打败；干掉</h3>
 </d:entry>
 
 <d:entry id="finishing" d:title="finishing">
@@ -1873,12 +1898,6 @@
     <d:index d:value="finishing abilities"/>
     <h1>finishing abilities</h1>
     <h3>临门技术；射门技能</h3>
-</d:entry>
-
-<d:entry id="finish off" d:title="finish off">
-    <d:index d:value="finish off"/>
-    <h1>finish off</h1>
-    <h3>最后打败；打败；干掉</h3>
 </d:entry>
 
 <d:entry id="finishing power" d:title="finishing power">
@@ -2007,6 +2026,12 @@
     <p>我们挫败了他们进攻的企图。</p>
 </d:entry>
 
+<d:entry id="foot over tackle" d:title="foot over tackle">
+    <d:index d:value="foot over tackle"/>
+    <h1>foot over tackle</h1>
+    <h3>抬脚过高的抢截</h3>
+</d:entry>
+
 <d:entry id="football" d:title="football">
     <d:index d:value="football"/>
     <h1>football</h1>
@@ -2018,12 +2043,6 @@
     <d:index d:value="football club"/>
     <h1>football club</h1>
     <h3>足球俱乐部</h3>
-</d:entry>
-
-<d:entry id="footballer" d:title="footballer">
-    <d:index d:value="footballer"/>
-    <h1>footballer</h1>
-    <h3>足球运动员</h3>
 </d:entry>
 
 <d:entry id="football fan" d:title="football fan">
@@ -2044,24 +2063,24 @@
     <h3>足球运动员</h3>
 </d:entry>
 
-<d:entry id="footballing ideas" d:title="footballing ideas">
-    <d:index d:value="footballing ideas"/>
-    <h1>footballing ideas</h1>
-    <h3>足球意识</h3>
-    <p>The Swedish team was full of footballing ideas (sense).</p>
-    <p>瑞典队足球意识很强</p>
-</d:entry>
-
 <d:entry id="football team" d:title="football team">
     <d:index d:value="football team"/>
     <h1>football team</h1>
     <h3>足球队</h3>
 </d:entry>
 
-<d:entry id="foot over tackle" d:title="foot over tackle">
-    <d:index d:value="foot over tackle"/>
-    <h1>foot over tackle</h1>
-    <h3>抬脚过高的抢截</h3>
+<d:entry id="footballer" d:title="footballer">
+    <d:index d:value="footballer"/>
+    <h1>footballer</h1>
+    <h3>足球运动员</h3>
+</d:entry>
+
+<d:entry id="footballing ideas" d:title="footballing ideas">
+    <d:index d:value="footballing ideas"/>
+    <h1>footballing ideas</h1>
+    <h3>足球意识</h3>
+    <p>The Swedish team was full of footballing ideas (sense).</p>
+    <p>瑞典队足球意识很强</p>
 </d:entry>
 
 <d:entry id="force majeure" d:title="force majeure">
@@ -2120,16 +2139,16 @@
     <h3>四后卫制</h3>
 </d:entry>
 
-<d:entry id="four-on-two" d:title="four-on-two">
-    <d:index d:value="four-on-two"/>
-    <h1>four-on-two</h1>
-    <h3>四打二</h3>
-</d:entry>
-
 <d:entry id="Four steps law for goalkeppers" d:title="Four steps law for goalkeppers">
     <d:index d:value="Four steps law for goalkeppers"/>
     <h1>Four steps law for goalkeppers</h1>
     <h3>守门员四步违例</h3>
+</d:entry>
+
+<d:entry id="four-on-two" d:title="four-on-two">
+    <d:index d:value="four-on-two"/>
+    <h1>four-on-two</h1>
+    <h3>四打二</h3>
 </d:entry>
 
 <d:entry id="free kick" d:title="free kick">
@@ -2170,14 +2189,6 @@
     <h3>友好足球邀请赛</h3>
 </d:entry>
 
-<d:entry id="frontal assault" d:title="frontal assault">
-    <d:index d:value="frontal assault"/>
-    <h1>frontal assault</h1>
-    <h3>正面进攻</h3>
-    <p>to launch a frontal attack</p>
-    <p>发动正面进攻</p>
-</d:entry>
-
 <d:entry id="front tackle" d:title="front tackle">
     <d:index d:value="front tackle"/>
     <h1>front tackle</h1>
@@ -2192,16 +2203,24 @@
     <p>苏格兰队准备在前场把球夺回来。</p>
 </d:entry>
 
-<d:entry id="fullback" d:title="fullback">
-    <d:index d:value="fullback"/>
-    <h1>fullback</h1>
-    <h3>后卫</h3>
+<d:entry id="frontal assault" d:title="frontal assault">
+    <d:index d:value="frontal assault"/>
+    <h1>frontal assault</h1>
+    <h3>正面进攻</h3>
+    <p>to launch a frontal attack</p>
+    <p>发动正面进攻</p>
 </d:entry>
 
 <d:entry id="full time" d:title="full time">
     <d:index d:value="full time"/>
     <h1>full time</h1>
     <h3>全场比赛时间</h3>
+</d:entry>
+
+<d:entry id="fullback" d:title="fullback">
+    <d:index d:value="fullback"/>
+    <h1>fullback</h1>
+    <h3>后卫</h3>
 </d:entry>
 
 <d:entry id="fundamentals" d:title="fundamentals">
@@ -2218,12 +2237,10 @@
     <p>2. goalkeeper 守门员</p>
 </d:entry>
 
-<d:entry id="gian possession of the ball" d:title="gian possession of the ball">
-    <d:index d:value="gian possession of the ball"/>
-    <h1>gian possession of the ball</h1>
-    <h3>得球；占有球；控制球</h3>
-    <p>Player No.8 gained possession of the ball.</p>
-    <p>8 hao号队员得球（控制球）。</p>
+<d:entry id="gambeta" d:title="gambeta">
+    <d:index d:value="gambeta"/>
+    <h1>gambeta</h1>
+    <h3>像障碍滑雪那样连过数人</h3>
 </d:entry>
 
 <d:entry id="game" d:title="game">
@@ -2232,6 +2249,12 @@
     <h3>比赛</h3>
     <p>a game between ... and ...</p>
     <p>... 对 ... 的一场比赛</p>
+</d:entry>
+
+<d:entry id="garra" d:title="garra">
+    <d:index d:value="garra"/>
+    <h1>garra</h1>
+    <h3>胆量；战斗精神</h3>
 </d:entry>
 
 <d:entry id="gate-crashing" d:title="gate-crashing">
@@ -2250,6 +2273,14 @@
     <d:index d:value="get around one's opponent"/>
     <h1>get around one's opponent</h1>
     <h3>晃过对方队员</h3>
+</d:entry>
+
+<d:entry id="gian possession of the ball" d:title="gian possession of the ball">
+    <d:index d:value="gian possession of the ball"/>
+    <h1>gian possession of the ball</h1>
+    <h3>得球；占有球；控制球</h3>
+    <p>Player No.8 gained possession of the ball.</p>
+    <p>8 hao号队员得球（控制球）。</p>
 </d:entry>
 
 <d:entry id="give a lacklustre performance" d:title="give a lacklustre performance">
@@ -2272,16 +2303,16 @@
     <p>进球！</p>
 </d:entry>
 
-<d:entry id="goals against" d:title="goals against">
-    <d:index d:value="goals against"/>
-    <h1>goals against</h1>
-    <h3>失球数</h3>
-</d:entry>
-
 <d:entry id="goal area" d:title="goal area">
     <d:index d:value="goal area"/>
     <h1>goal area</h1>
     <h3>球门区</h3>
+</d:entry>
+
+<d:entry id="goal bouns" d:title="goal bouns">
+    <d:index d:value="goal bouns"/>
+    <h1>goal bouns</h1>
+    <h3>进球奖金</h3>
 </d:entry>
 
 <d:entry id="goal difference" d:title="goal difference">
@@ -2301,32 +2332,6 @@
     <d:index d:value="goal getter"/>
     <h1>goal getter</h1>
     <h3>射门手；射门进球者</h3>
-</d:entry>
-
-<d:entry id="goal-getting power" d:title="goal-getting power">
-    <d:index d:value="goal-getting power"/>
-    <h1>goal-getting power</h1>
-    <h3>射门能力</h3>
-</d:entry>
-
-<d:entry id="goalie" d:title="goalie">
-    <d:index d:value="goalie"/>
-    <h1>goalie</h1>
-    <h3>守门员</h3>
-</d:entry>
-
-<d:entry id="goalkepper" d:title="goalkepper">
-    <d:index d:value="goalkepper"/>
-    <h1>goalkepper</h1>
-    <h3>守门员</h3>
-</d:entry>
-
-<d:entry id="goal-kick" d:title="goal-kick">
-    <d:index d:value="goal-kick"/>
-    <h1>goal-kick</h1>
-    <h3>球门球</h3>
-    <p>to take a goal-kick</p>
-    <p>踢球门球</p>
 </d:entry>
 
 <d:entry id="goal line" d:title="goal line">
@@ -2353,6 +2358,38 @@
     <h3>进球手</h3>
     <p>He is the main goal scorer of our team.</p>
     <p>他是我们队的主要进球手。</p>
+</d:entry>
+
+<d:entry id="goal-getting power" d:title="goal-getting power">
+    <d:index d:value="goal-getting power"/>
+    <h1>goal-getting power</h1>
+    <h3>射门能力</h3>
+</d:entry>
+
+<d:entry id="goal-kick" d:title="goal-kick">
+    <d:index d:value="goal-kick"/>
+    <h1>goal-kick</h1>
+    <h3>球门球</h3>
+    <p>to take a goal-kick</p>
+    <p>踢球门球</p>
+</d:entry>
+
+<d:entry id="goalie" d:title="goalie">
+    <d:index d:value="goalie"/>
+    <h1>goalie</h1>
+    <h3>守门员</h3>
+</d:entry>
+
+<d:entry id="goalkepper" d:title="goalkepper">
+    <d:index d:value="goalkepper"/>
+    <h1>goalkepper</h1>
+    <h3>守门员</h3>
+</d:entry>
+
+<d:entry id="goals against" d:title="goals against">
+    <d:index d:value="goals against"/>
+    <h1>goals against</h1>
+    <h3>失球数</h3>
 </d:entry>
 
 <d:entry id="goaltender" d:title="goaltender">
@@ -2409,12 +2446,6 @@
     <h3>半时</h3>
 </d:entry>
 
-<d:entry id="halfback" d:title="halfback">
-    <d:index d:value="halfback"/>
-    <h1>halfback</h1>
-    <h3>前卫；中前卫；中场队员</h3>
-</d:entry>
-
 <d:entry id="half time" d:title="half time">
     <d:index d:value="half time"/>
     <h1>half time</h1>
@@ -2440,10 +2471,22 @@
     <p>（译注：指在球刚落地反弹的一瞬间将球踢出。）</p>
 </d:entry>
 
+<d:entry id="halfback" d:title="halfback">
+    <d:index d:value="halfback"/>
+    <h1>halfback</h1>
+    <h3>前卫；中前卫；中场队员</h3>
+</d:entry>
+
 <d:entry id="halfway flag" d:title="halfway flag">
     <d:index d:value="halfway flag"/>
     <h1>halfway flag</h1>
     <h3>中线旗</h3>
+</d:entry>
+
+<d:entry id="hamstring" d:title="hamstring">
+    <d:index d:value="hamstring"/>
+    <h1>hamstring</h1>
+    <h3>腿筋拉伤</h3>
 </d:entry>
 
 <d:entry id="hand ball" d:title="hand ball">
@@ -2500,14 +2543,6 @@
     <h3>主教练</h3>
 </d:entry>
 
-<d:entry id="header" d:title="header">
-    <d:index d:value="header"/>
-    <h1>header</h1>
-    <h3>头球</h3>
-    <p>He demonstrates excellent technique as he unleashes a powerful header.</p>
-    <p>他的头球强劲有力，显示出高超技术。</p>
-</d:entry>
-
 <d:entry id="head for distance" d:title="head for distance">
     <d:index d:value="head for distance"/>
     <h1>head for distance</h1>
@@ -2524,6 +2559,14 @@
     <d:index d:value="head in"/>
     <h1>head in</h1>
     <h3>头球破门；顶球入门</h3>
+</d:entry>
+
+<d:entry id="header" d:title="header">
+    <d:index d:value="header"/>
+    <h1>header</h1>
+    <h3>头球</h3>
+    <p>He demonstrates excellent technique as he unleashes a powerful header.</p>
+    <p>他的头球强劲有力，显示出高超技术。</p>
 </d:entry>
 
 <d:entry id="heading" d:title="heading">
@@ -2566,12 +2609,6 @@
     <h3>脚后跟；用脚后跟向后传球</h3>
 </d:entry>
 
-<d:entry id="high-bouncing ball" d:title="high-bouncing ball">
-    <d:index d:value="high-bouncing ball"/>
-    <h1>high-bouncing ball</h1>
-    <h3>高跳球</h3>
-</d:entry>
-
 <d:entry id="high cross" d:title="high cross">
     <d:index d:value="high cross"/>
     <h1>high cross</h1>
@@ -2584,14 +2621,6 @@
     <d:index d:value="high kick"/>
     <h1>high kick</h1>
     <h3>高踢；高球</h3>
-</d:entry>
-
-<d:entry id="highlight" d:title="highlight">
-    <d:index d:value="highlight"/>
-    <h1>highlight</h1>
-    <h3>精彩场面</h3>
-    <p>The second half passed without any highlight worthy of mention.</p>
-    <p>下半场比赛没有什么值得一提的精彩场面。</p>
 </d:entry>
 
 <d:entry id="high lobbing pass" d:title="high lobbing pass">
@@ -2612,6 +2641,20 @@
     <d:index d:value="high shot"/>
     <h1>high shot</h1>
     <h3>高吊球射门；挑射</h3>
+</d:entry>
+
+<d:entry id="high-bouncing ball" d:title="high-bouncing ball">
+    <d:index d:value="high-bouncing ball"/>
+    <h1>high-bouncing ball</h1>
+    <h3>高跳球</h3>
+</d:entry>
+
+<d:entry id="highlight" d:title="highlight">
+    <d:index d:value="highlight"/>
+    <h1>highlight</h1>
+    <h3>精彩场面</h3>
+    <p>The second half passed without any highlight worthy of mention.</p>
+    <p>下半场比赛没有什么值得一提的精彩场面。</p>
 </d:entry>
 
 <d:entry id="hold" d:title="hold">
@@ -2688,6 +2731,32 @@
     <p>inside left</p>
 </d:entry>
 
+<d:entry id="in good form" d:title="in good form">
+    <d:index d:value="in good form"/>
+    <h1>in good form</h1>
+    <h3>竞技状态好；状态好</h3>
+</d:entry>
+
+<d:entry id="in peak form" d:title="in peak form">
+    <d:index d:value="in peak form"/>
+    <h1>in peak form</h1>
+    <h3>经济状态极好；状态极好</h3>
+</d:entry>
+
+<d:entry id="in the air" d:title="in the air">
+    <d:index d:value="in the air"/>
+    <h1>in the air</h1>
+    <h3>争顶头球；空中争顶球</h3>
+    <p>The defender was good in the air.</p>
+    <p>这个防守队员擅长争顶头球。</p>
+</d:entry>
+
+<d:entry id="in top shape" d:title="in top shape">
+    <d:index d:value="in top shape"/>
+    <h1>in top shape</h1>
+    <h3>竞技状态极好</h3>
+</d:entry>
+
 <d:entry id="indirect free kick" d:title="indirect free kick">
     <d:index d:value="indirect free kick"/>
     <h1>indirect free kick</h1>
@@ -2726,22 +2795,10 @@
     <h3>违反规则</h3>
 </d:entry>
 
-<d:entry id="in good form" d:title="in good form">
-    <d:index d:value="in good form"/>
-    <h1>in good form</h1>
-    <h3>竞技状态好；状态好</h3>
-</d:entry>
-
 <d:entry id="initiate an attack" d:title="initiate an attack">
     <d:index d:value="initiate an attack"/>
     <h1>initiate an attack</h1>
     <h3>发动进攻</h3>
-</d:entry>
-
-<d:entry id="in peak form" d:title="in peak form">
-    <d:index d:value="in peak form"/>
-    <h1>in peak form</h1>
-    <h3>经济状态极好；状态极好</h3>
 </d:entry>
 
 <d:entry id="inside foot passing" d:title="inside foot passing">
@@ -2792,6 +2849,18 @@
     <h3>故意绊人</h3>
 </d:entry>
 
+<d:entry id="inter-club matches" d:title="inter-club matches">
+    <d:index d:value="inter-club matches"/>
+    <h1>inter-club matches</h1>
+    <h3>俱乐部之间的比赛</h3>
+</d:entry>
+
+<d:entry id="inter-league matches" d:title="inter-league matches">
+    <d:index d:value="inter-league matches"/>
+    <h1>inter-league matches</h1>
+    <h3>竞赛联合会之间的比赛</h3>
+</d:entry>
+
 <d:entry id="intercept" d:title="intercept">
     <d:index d:value="intercept"/>
     <h1>intercept</h1>
@@ -2818,42 +2887,16 @@
     <h3>用大腿截球</h3>
 </d:entry>
 
-<d:entry id="inter-club matches" d:title="inter-club matches">
-    <d:index d:value="inter-club matches"/>
-    <h1>inter-club matches</h1>
-    <h3>俱乐部之间的比赛</h3>
-</d:entry>
-
-<d:entry id="inter-league matches" d:title="inter-league matches">
-    <d:index d:value="inter-league matches"/>
-    <h1>inter-league matches</h1>
-    <h3>竞赛联合会之间的比赛</h3>
-</d:entry>
-
 <d:entry id="international football match A / B" d:title="international football match A / B">
     <d:index d:value="international football match A / B"/>
     <h1>international football match A / B</h1>
     <h3>A 类国际比赛 / B 类国际比赛</h3>
 </d:entry>
 
-<d:entry id="in the air" d:title="in the air">
-    <d:index d:value="in the air"/>
-    <h1>in the air</h1>
-    <h3>争顶头球；空中争顶球</h3>
-    <p>The defender was good in the air.</p>
-    <p>这个防守队员擅长争顶头球。</p>
-</d:entry>
-
 <d:entry id="invite a tackle" d:title="invite a tackle">
     <d:index d:value="invite a tackle"/>
     <h1>invite a tackle</h1>
     <h3>诱使对方拦截</h3>
-</d:entry>
-
-<d:entry id="in top shape" d:title="in top shape">
-    <d:index d:value="in top shape"/>
-    <h1>in top shape</h1>
-    <h3>竞技状态极好</h3>
 </d:entry>
 
 <d:entry id="IR" d:title="IR">
@@ -2917,12 +2960,6 @@
     <p>那一脚踢得不错。</p>
 </d:entry>
 
-<d:entry id="kicker" d:title="kicker">
-    <d:index d:value="kicker"/>
-    <h1>kicker</h1>
-    <h3>罚球队员</h3>
-</d:entry>
-
 <d:entry id="kick off" d:title="kick off">
     <d:index d:value="kick off"/>
     <h1>kick off</h1>
@@ -2935,12 +2972,6 @@
     <p>（足球比赛）开始</p>
     <p>The match is due to kick off at 7:00 pm.</p>
     <p>足球比赛预期在晚7时开始。</p>
-</d:entry>
-
-<d:entry id="kick-off circle" d:title="kick-off circle">
-    <d:index d:value="kick-off circle"/>
-    <h1>kick-off circle</h1>
-    <h3>中圈</h3>
 </d:entry>
 
 <d:entry id="kick the ball backward with the heel" d:title="kick the ball backward with the heel">
@@ -2959,6 +2990,18 @@
     <d:index d:value="kick with the sole"/>
     <h1>kick with the sole</h1>
     <h3>脚掌踢球</h3>
+</d:entry>
+
+<d:entry id="kick-off circle" d:title="kick-off circle">
+    <d:index d:value="kick-off circle"/>
+    <h1>kick-off circle</h1>
+    <h3>中圈</h3>
+</d:entry>
+
+<d:entry id="kicker" d:title="kicker">
+    <d:index d:value="kicker"/>
+    <h1>kicker</h1>
+    <h3>罚球队员</h3>
 </d:entry>
 
 <d:entry id="knee pads" d:title="knee pads">
@@ -2998,17 +3041,17 @@
     <p>（译注：consistent 原意是始终如一的，前后一致的；坚固的，坚实的，坚定的。consistent attacks 用于足球，根据上下文，可译成持续不断，坚强有力的进攻。）</p>
 </d:entry>
 
-<d:entry id="league" d:title="league">
-    <d:index d:value="league"/>
-    <h1>league</h1>
-    <h3>联赛</h3>
-</d:entry>
-
 <d:entry id="LB" d:title="LB">
     <d:index d:value="LB"/>
     <h1>LB</h1>
     <h3>左后卫的缩写</h3>
     <p>left back</p>
+</d:entry>
+
+<d:entry id="league" d:title="league">
+    <d:index d:value="league"/>
+    <h1>league</h1>
+    <h3>联赛</h3>
 </d:entry>
 
 <d:entry id="League System" d:title="League System">
@@ -3070,10 +3113,13 @@
     <h3>横穿</h3>
 </d:entry>
 
-<d:entry id="linesman" d:title="linesman">
-    <d:index d:value="linesman"/>
-    <h1>linesman</h1>
-    <h3>巡边员</h3>
+<d:entry id="line role" d:title="line role">
+    <d:index d:value="line role"/>
+    <h1>line role</h1>
+    <h3>穿针引线</h3>
+    <p>（译注：原意为起到联系或连接的作用，现引申为起到穿针引线的作用。）</p>
+    <p>Player No.11 provided an important link role in both attack and defence.</p>
+    <p>11 号队员在进攻和防守中对全队起到穿针引线的重要作用。</p>
 </d:entry>
 
 <d:entry id="line up" d:title="line up">
@@ -3092,13 +3138,10 @@
     <h3>筑人墙</h3>
 </d:entry>
 
-<d:entry id="line role" d:title="line role">
-    <d:index d:value="line role"/>
-    <h1>line role</h1>
-    <h3>穿针引线</h3>
-    <p>（译注：原意为起到联系或连接的作用，现引申为起到穿针引线的作用。）</p>
-    <p>Player No.11 provided an important link role in both attack and defence.</p>
-    <p>11 号队员在进攻和防守中对全队起到穿针引线的重要作用。</p>
+<d:entry id="linesman" d:title="linesman">
+    <d:index d:value="linesman"/>
+    <h1>linesman</h1>
+    <h3>巡边员</h3>
 </d:entry>
 
 <d:entry id="lob" d:title="lob">
@@ -3181,6 +3224,12 @@
     <h3>成功率低的射门</h3>
 </d:entry>
 
+<d:entry id="loyalty bouns" d:title="loyalty bouns">
+    <d:index d:value="loyalty bouns"/>
+    <h1>loyalty bouns</h1>
+    <h3>忠诚奖金</h3>
+</d:entry>
+
 <d:entry id="major league" d:title="major league">
     <d:index d:value="major league"/>
     <h1>major league</h1>
@@ -3215,6 +3264,12 @@
     <d:index d:value="march in"/>
     <h1>march in</h1>
     <h3>列队入场</h3>
+</d:entry>
+
+<d:entry id="marianela" d:title="marianela">
+    <d:index d:value="marianela"/>
+    <h1>marianela</h1>
+    <h3>凌空踢球动作</h3>
 </d:entry>
 
 <d:entry id="mark space" d:title="mark space">
@@ -3323,6 +3378,12 @@
     <h3>国家队</h3>
 </d:entry>
 
+<d:entry id="nearly man" d:title="nearly man">
+    <d:index d:value="nearly man"/>
+    <h1>nearly man</h1>
+    <h3>千年老二</h3>
+</d:entry>
+
 <d:entry id="never-give-up spirit" d:title="never-give-up spirit">
     <d:index d:value="never-give-up spirit"/>
     <h1>never-give-up spirit</h1>
@@ -3390,44 +3451,6 @@
     <p>Oceania Football Confederation</p>
 </d:entry>
 
-<d:entry id="offensive" d:title="offensive">
-    <d:index d:value="offensive"/>
-    <h1>offensive</h1>
-    <h3>进攻；攻势</h3>
-    <p>to take the offensive</p>
-    <p>采取攻势</p>
-</d:entry>
-
-<d:entry id="offensive football" d:title="offensive football">
-    <d:index d:value="offensive football"/>
-    <h1>offensive football</h1>
-    <h3>进攻型足球</h3>
-</d:entry>
-
-<d:entry id="offensively-oriented" d:title="offensively-oriented">
-    <d:index d:value="offensively-oriented"/>
-    <h1>offensively-oriented</h1>
-    <h3>进攻型的</h3>
-    <p>offensively-oriented player / team</p>
-    <p>进攻型的队员 / 队</p>
-    <p>Spain is an offensively-oriented team.</p>
-    <p>西班牙队是一支进攻型的球队。</p>
-</d:entry>
-
-<d:entry id="offensive on the wings" d:title="offensive on the wings">
-    <d:index d:value="offensive on the wings"/>
-    <h1>offensive on the wings</h1>
-    <h3>从两翼进攻；沿边线进攻</h3>
-</d:entry>
-
-<d:entry id="offensive play" d:title="offensive play">
-    <d:index d:value="offensive play"/>
-    <h1>offensive play</h1>
-    <h3>进攻型打法</h3>
-    <p>Offensive play is concerned with advancing the ball upfield and scoring goals.</p>
-    <p>进攻型打法是将球推向前场破门进球的一种打法。</p>
-</d:entry>
-
 <d:entry id="off-form" d:title="off-form">
     <d:index d:value="off-form"/>
     <h1>off-form</h1>
@@ -3448,10 +3471,42 @@
     <h3>越位位置</h3>
 </d:entry>
 
-<d:entry id="old-timer" d:title="old-timer">
-    <d:index d:value="old-timer"/>
-    <h1>old-timer</h1>
-    <h3>老手；老前辈；老资格</h3>
+<d:entry id="offensive" d:title="offensive">
+    <d:index d:value="offensive"/>
+    <h1>offensive</h1>
+    <h3>进攻；攻势</h3>
+    <p>to take the offensive</p>
+    <p>采取攻势</p>
+</d:entry>
+
+<d:entry id="offensive football" d:title="offensive football">
+    <d:index d:value="offensive football"/>
+    <h1>offensive football</h1>
+    <h3>进攻型足球</h3>
+</d:entry>
+
+<d:entry id="offensive on the wings" d:title="offensive on the wings">
+    <d:index d:value="offensive on the wings"/>
+    <h1>offensive on the wings</h1>
+    <h3>从两翼进攻；沿边线进攻</h3>
+</d:entry>
+
+<d:entry id="offensive play" d:title="offensive play">
+    <d:index d:value="offensive play"/>
+    <h1>offensive play</h1>
+    <h3>进攻型打法</h3>
+    <p>Offensive play is concerned with advancing the ball upfield and scoring goals.</p>
+    <p>进攻型打法是将球推向前场破门进球的一种打法。</p>
+</d:entry>
+
+<d:entry id="offensively-oriented" d:title="offensively-oriented">
+    <d:index d:value="offensively-oriented"/>
+    <h1>offensively-oriented</h1>
+    <h3>进攻型的</h3>
+    <p>offensively-oriented player / team</p>
+    <p>进攻型的队员 / 队</p>
+    <p>Spain is an offensively-oriented team.</p>
+    <p>西班牙队是一支进攻型的球队。</p>
 </d:entry>
 
 <d:entry id="OL" d:title="OL">
@@ -3459,6 +3514,12 @@
     <h1>OL</h1>
     <h3>左边锋的缩写</h3>
     <p>outside left</p>
+</d:entry>
+
+<d:entry id="old-timer" d:title="old-timer">
+    <d:index d:value="old-timer"/>
+    <h1>old-timer</h1>
+    <h3>老手；老前辈；老资格</h3>
 </d:entry>
 
 <d:entry id="on a home and away basis" d:title="on a home and away basis">
@@ -3523,6 +3584,13 @@
     <h3>中线旗</h3>
 </d:entry>
 
+<d:entry id="OR" d:title="OR">
+    <d:index d:value="OR"/>
+    <h1>OR</h1>
+    <h3>右边锋的缩写</h3>
+    <p>outside right</p>
+</d:entry>
+
 <d:entry id="order of competition" d:title="order of competition">
     <d:index d:value="order of competition"/>
     <h1>order of competition</h1>
@@ -3535,17 +3603,17 @@
     <h3>一般犯规</h3>
 </d:entry>
 
-<d:entry id="OR" d:title="OR">
-    <d:index d:value="OR"/>
-    <h1>OR</h1>
-    <h3>右边锋的缩写</h3>
-    <p>outside right</p>
-</d:entry>
-
 <d:entry id="organiser" d:title="organiser">
     <d:index d:value="organiser"/>
     <h1>organiser</h1>
     <h3>组织者</h3>
+    <p>（美国英语）</p>
+</d:entry>
+
+<d:entry id="Organising Committee" d:title="Organising Committee">
+    <d:index d:value="Organising Committee"/>
+    <h1>Organising Committee</h1>
+    <h3>组委会</h3>
     <p>（美国英语）</p>
 </d:entry>
 
@@ -3557,33 +3625,12 @@
     <p>他本身是一名出色的队员和良好的组织者。</p>
 </d:entry>
 
-<d:entry id="Organising Committee" d:title="Organising Committee">
-    <d:index d:value="Organising Committee"/>
-    <h1>Organising Committee</h1>
-    <h3>组委会</h3>
-    <p>（美国英语）</p>
-</d:entry>
-
 <d:entry id="Organizing Committee" d:title="Organizing Committee">
     <d:index d:value="Organizing Committee"/>
     <h1>Organizing Committee</h1>
     <h3>组委会</h3>
     <p>Organizing Committee for the FIFA World Cup</p>
     <p>国际足联世界杯组委会</p>
-</d:entry>
-
-<d:entry id="outfit" d:title="outfit">
-    <d:index d:value="outfit"/>
-    <h1>outfit</h1>
-    <h3>全套服装</h3>
-    <p>Each team shall have a aspare outfit.</p>
-    <p>每个队要有全套备用服装。</p>
-</d:entry>
-
-<d:entry id="out-of bounds" d:title="out-of bounds">
-    <d:index d:value="out-of bounds"/>
-    <h1>out-of bounds</h1>
-    <h3>出界</h3>
 </d:entry>
 
 <d:entry id="out of form" d:title="out of form">
@@ -3596,6 +3643,20 @@
     <d:index d:value="out of shape"/>
     <h1>out of shape</h1>
     <h3>竞技状态失常</h3>
+</d:entry>
+
+<d:entry id="out-of bounds" d:title="out-of bounds">
+    <d:index d:value="out-of bounds"/>
+    <h1>out-of bounds</h1>
+    <h3>出界</h3>
+</d:entry>
+
+<d:entry id="outfit" d:title="outfit">
+    <d:index d:value="outfit"/>
+    <h1>outfit</h1>
+    <h3>全套服装</h3>
+    <p>Each team shall have a aspare outfit.</p>
+    <p>每个队要有全套备用服装。</p>
 </d:entry>
 
 <d:entry id="outside" d:title="outside">
@@ -3728,6 +3789,12 @@
     <h3>传球角度</h3>
 </d:entry>
 
+<d:entry id="passovotchka" d:title="passovotchka">
+    <d:index d:value="passovotchka"/>
+    <h1>passovotchka</h1>
+    <h3>传球者；传球高手</h3>
+</d:entry>
+
 <d:entry id="penalty" d:title="penalty">
     <d:index d:value="penalty"/>
     <h1>penalty</h1>
@@ -3835,24 +3902,6 @@
     <p>踢足球</p>
 </d:entry>
 
-<d:entry id="player" d:title="player">
-    <d:index d:value="player"/>
-    <h1>player</h1>
-    <h3>运动员；队员</h3>
-</d:entry>
-
-<d:entry id="players' equipment" d:title="players' equipment">
-    <d:index d:value="players' equipment"/>
-    <h1>players' equipment</h1>
-    <h3>队员装备</h3>
-</d:entry>
-
-<d:entry id="player without the ball" d:title="player without the ball">
-    <d:index d:value="player without the ball"/>
-    <h1>player without the ball</h1>
-    <h3>无球队员</h3>
-</d:entry>
-
 <d:entry id="play fair" d:title="play fair">
     <d:index d:value="play fair"/>
     <h1>play fair</h1>
@@ -3867,18 +3916,6 @@
     <p>（比如使用犯规动作，小动作，故意整对方球员等。）</p>
 </d:entry>
 
-<d:entry id="playing time" d:title="playing time">
-    <d:index d:value="playing time"/>
-    <h1>playing time</h1>
-    <h3>比赛时间</h3>
-</d:entry>
-
-<d:entry id="playmaker" d:title="playmaker">
-    <d:index d:value="playmaker"/>
-    <h1>playmaker</h1>
-    <h3>jin'gong'zu'zhi'zhe进攻组织者；发动机；司令塔</h3>
-</d:entry>
-
 <d:entry id="play on" d:title="play on">
     <d:index d:value="play on"/>
     <h1>play on</h1>
@@ -3891,16 +3928,58 @@
     <h3>引用规则中的“有利”条款——继续比赛</h3>
 </d:entry>
 
+<d:entry id="play rough" d:title="play rough">
+    <d:index d:value="play rough"/>
+    <h1>play rough</h1>
+    <h3>踢球粗野</h3>
+</d:entry>
+
 <d:entry id="play safe" d:title="play safe">
     <d:index d:value="play safe"/>
     <h1>play safe</h1>
     <h3>稳扎稳打</h3>
 </d:entry>
 
-<d:entry id="play rough" d:title="play rough">
-    <d:index d:value="play rough"/>
-    <h1>play rough</h1>
-    <h3>踢球粗野</h3>
+<d:entry id="player" d:title="player">
+    <d:index d:value="player"/>
+    <h1>player</h1>
+    <h3>运动员；队员</h3>
+</d:entry>
+
+<d:entry id="player without the ball" d:title="player without the ball">
+    <d:index d:value="player without the ball"/>
+    <h1>player without the ball</h1>
+    <h3>无球队员</h3>
+</d:entry>
+
+<d:entry id="players' equipment" d:title="players' equipment">
+    <d:index d:value="players' equipment"/>
+    <h1>players' equipment</h1>
+    <h3>队员装备</h3>
+</d:entry>
+
+<d:entry id="playing time" d:title="playing time">
+    <d:index d:value="playing time"/>
+    <h1>playing time</h1>
+    <h3>比赛时间</h3>
+</d:entry>
+
+<d:entry id="playmaker" d:title="playmaker">
+    <d:index d:value="playmaker"/>
+    <h1>playmaker</h1>
+    <h3>jin'gong'zu'zhi'zhe进攻组织者；发动机；司令塔</h3>
+</d:entry>
+
+<d:entry id="position" d:title="position">
+    <d:index d:value="position"/>
+    <h1>position</h1>
+    <h3>位置</h3>
+</d:entry>
+
+<d:entry id="position-switching" d:title="position-switching">
+    <d:index d:value="position-switching"/>
+    <h1>position-switching</h1>
+    <h3>换位</h3>
 </d:entry>
 
 <d:entry id="positional play" d:title="positional play">
@@ -3917,16 +3996,10 @@
     <p>队员需要有突出的跑位意识是显而易见的。</p>
 </d:entry>
 
-<d:entry id="position-switching" d:title="position-switching">
-    <d:index d:value="position-switching"/>
-    <h1>position-switching</h1>
-    <h3>换位</h3>
-</d:entry>
-
 <d:entry id="possession" d:title="possession">
     <d:index d:value="possession"/>
     <h1>possession</h1>
-    <h3>控制（球）</h3>
+    <h3>控制（球）；控球</h3>
     <p>gain possession of the ball</p>
     <p>have possession of the ball</p>
     <p>in possession of the ball</p>
@@ -4061,14 +4134,6 @@
     <p>他推对方队员。</p>
 </d:entry>
 
-<d:entry id="pushing" d:title="pushing">
-    <d:index d:value="pushing"/>
-    <h1>pushing</h1>
-    <h3>推</h3>
-    <p>Stop pushing!</p>
-    <p>不许推人！（裁判用语）</p>
-</d:entry>
-
 <d:entry id="push kick" d:title="push kick">
     <d:index d:value="push kick"/>
     <h1>push kick</h1>
@@ -4085,6 +4150,14 @@
     <d:index d:value="push the ball into the net"/>
     <h1>push the ball into the net</h1>
     <h3>推射入网</h3>
+</d:entry>
+
+<d:entry id="pushing" d:title="pushing">
+    <d:index d:value="pushing"/>
+    <h1>pushing</h1>
+    <h3>推</h3>
+    <p>Stop pushing!</p>
+    <p>不许推人！（裁判用语）</p>
 </d:entry>
 
 <d:entry id="put up a good performance" d:title="put up a good performance">
@@ -4173,6 +4246,12 @@
     <h3>裁判员徽章</h3>
 </d:entry>
 
+<d:entry id="regista" d:title="regista">
+    <d:index d:value="regista"/>
+    <h1>regista</h1>
+    <h3>组织者</h3>
+</d:entry>
+
 <d:entry id="relegate" d:title="relegate">
     <d:index d:value="relegate"/>
     <h1>relegate</h1>
@@ -4185,6 +4264,12 @@
     <d:index d:value="relegation"/>
     <h1>relegation</h1>
     <h3>降级</h3>
+</d:entry>
+
+<d:entry id="relocation fee" d:title="relocation fee">
+    <d:index d:value="relocation fee"/>
+    <h1>relocation fee</h1>
+    <h3>搬家费</h3>
 </d:entry>
 
 <d:entry id="representative team" d:title="representative team">
@@ -4203,6 +4288,12 @@
     <d:index d:value="retrieve"/>
     <h1>retrieve</h1>
     <h3>（守门员）救球</h3>
+</d:entry>
+
+<d:entry id="reverse ball" d:title="reverse ball">
+    <d:index d:value="reverse ball"/>
+    <h1>reverse ball</h1>
+    <h3>反向传球</h3>
 </d:entry>
 
 <d:entry id="reythm" d:title="reythm">
@@ -4261,6 +4352,13 @@
     <h3>粗野的比赛（动作）</h3>
 </d:entry>
 
+<d:entry id="run of play" d:title="run of play">
+    <d:index d:value="run of play"/>
+    <h1>run of play</h1>
+    <h3>比赛的实际水平</h3>
+    <p>（通常指在足球比赛过程中两个队表现出来的实际水平。）</p>
+</d:entry>
+
 <d:entry id="running kick" d:title="running kick">
     <d:index d:value="running kick"/>
     <h1>running kick</h1>
@@ -4277,13 +4375,6 @@
     <d:index d:value="running with the ball"/>
     <h1>running with the ball</h1>
     <h3>运带球</h3>
-</d:entry>
-
-<d:entry id="run of play" d:title="run of play">
-    <d:index d:value="run of play"/>
-    <h1>run of play</h1>
-    <h3>比赛的实际水平</h3>
-    <p>（通常指在足球比赛过程中两个队表现出来的实际水平。）</p>
 </d:entry>
 
 <d:entry id="save" d:title="save">
@@ -4375,6 +4466,14 @@
     <h3>半决赛</h3>
 </d:entry>
 
+<d:entry id="send off" d:title="send off">
+    <d:index d:value="send off"/>
+    <h1>send off</h1>
+    <h3>判罚......出场</h3>
+    <p>send off the field of play</p>
+    <p>判罚......出场</p>
+</d:entry>
+
 <d:entry id="sensation" d:title="sensation">
     <d:index d:value="sensation"/>
     <h1>sensation</h1>
@@ -4387,14 +4486,6 @@
     <h3>引起轰动的</h3>
     <p>Korea scored a sensational 2:2 against Spain.</p>
     <p>韩国队以 2: 2 逼和西班牙队引起轰动。</p>
-</d:entry>
-
-<d:entry id="send off" d:title="send off">
-    <d:index d:value="send off"/>
-    <h1>send off</h1>
-    <h3>判罚......出场</h3>
-    <p>send off the field of play</p>
-    <p>判罚......出场</p>
 </d:entry>
 
 <d:entry id="serious foul" d:title="serious foul">
@@ -4468,15 +4559,15 @@
     <h3>射门</h3>
 </d:entry>
 
-<d:entry id="shoot from an acute angle" d:title="shoot from an acute angle">
-    <d:index d:value="shoot from an acute angle"/>
-    <h1>shoot from an acute angle</h1>
-    <h3>小角度射门</h3>
-</d:entry>
-
 <d:entry id="shoot from a sharp angle" d:title="shoot from a sharp angle">
     <d:index d:value="shoot from a sharp angle"/>
     <h1>shoot from a sharp angle</h1>
+    <h3>小角度射门</h3>
+</d:entry>
+
+<d:entry id="shoot from an acute angle" d:title="shoot from an acute angle">
+    <d:index d:value="shoot from an acute angle"/>
+    <h1>shoot from an acute angle</h1>
     <h3>小角度射门</h3>
 </d:entry>
 
@@ -4556,6 +4647,12 @@
     <p>主队令人信服地打赢了这 3 场比赛。</p>
 </d:entry>
 
+<d:entry id="side tackle" d:title="side tackle">
+    <d:index d:value="side tackle"/>
+    <h1>side tackle</h1>
+    <h3>侧面抢截</h3>
+</d:entry>
+
 <d:entry id="side-block tackle" d:title="side-block tackle">
     <d:index d:value="side-block tackle"/>
     <h1>side-block tackle</h1>
@@ -4580,10 +4677,10 @@
     <h3>向旁边避让一步；侧步躲闪；侧跨步</h3>
 </d:entry>
 
-<d:entry id="side tackle" d:title="side tackle">
-    <d:index d:value="side tackle"/>
-    <h1>side tackle</h1>
-    <h3>侧面抢截</h3>
+<d:entry id="sign-on fee" d:title="sign-on fee">
+    <d:index d:value="sign-on fee"/>
+    <h1>sign-on fee</h1>
+    <h3>签字费</h3>
 </d:entry>
 
 <d:entry id="signals by the linesmen" d:title="signals by the linesmen">
@@ -4674,18 +4771,18 @@
     <p>梅西擅长个人突破。</p>
 </d:entry>
 
+<d:entry id="solo player" d:title="solo player">
+    <d:index d:value="solo player"/>
+    <h1>solo player</h1>
+    <h3>个人突破能力强的队员；擅长单刀直入的队员</h3>
+</d:entry>
+
 <d:entry id="soloist" d:title="soloist">
     <d:index d:value="soloist"/>
     <h1>soloist</h1>
     <h3>个人突破能力强的队员；擅长单刀直入的队员</h3>
     <p>The team has some superb soloists.</p>
     <p>这个队有好几个一流的个人突破能力强的队员。</p>
-</d:entry>
-
-<d:entry id="solo player" d:title="solo player">
-    <d:index d:value="solo player"/>
-    <h1>solo player</h1>
-    <h3>个人突破能力强的队员；擅长单刀直入的队员</h3>
 </d:entry>
 
 <d:entry id="spare outfit" d:title="spare outfit">
@@ -4742,18 +4839,18 @@
     <h3>体育场</h3>
 </d:entry>
 
-<d:entry id="standing header" d:title="standing header">
-    <d:index d:value="standing header"/>
-    <h1>standing header</h1>
-    <h3>原地顶球</h3>
-</d:entry>
-
 <d:entry id="stamina" d:title="stamina">
     <d:index d:value="stamina"/>
     <h1>stamina</h1>
     <h3>耐力；持久力；体力</h3>
     <p>Football players need great stamina.</p>
     <p>足球运动员需要有很强的耐力（持久力）。</p>
+</d:entry>
+
+<d:entry id="standing header" d:title="standing header">
+    <d:index d:value="standing header"/>
+    <h1>standing header</h1>
+    <h3>原地顶球</h3>
 </d:entry>
 
 <d:entry id="stationary ball" d:title="stationary ball">
@@ -4924,6 +5021,12 @@
     <p>匈牙利首创 4-2-4 阵型，将中锋拖后使用。</p>
 </d:entry>
 
+<d:entry id="tabelinha" d:title="tabelinha">
+    <d:index d:value="tabelinha"/>
+    <h1>tabelinha</h1>
+    <h3>相互快速短传的技巧</h3>
+</d:entry>
+
 <d:entry id="tackle" d:title="tackle">
     <d:index d:value="tackle"/>
     <h1>tackle</h1>
@@ -4934,6 +5037,20 @@
     <p>2. 作名词：</p>
     <p>George is warding off a tackle to get in a shot at goal.</p>
     <p>乔治避开对方球员的抢截以便接近射门。</p>
+</d:entry>
+
+<d:entry id="take  the lead" d:title="take  the lead">
+    <d:index d:value="take  the lead"/>
+    <h1>take  the lead</h1>
+    <h3>领先</h3>
+    <p>take a large lead</p>
+    <p>遥遥领先</p>
+</d:entry>
+
+<d:entry id="take a kick" d:title="take a kick">
+    <d:index d:value="take a kick"/>
+    <h1>take a kick</h1>
+    <h3>踢点球；罚点球</h3>
 </d:entry>
 
 <d:entry id="take a pass" d:title="take a pass">
@@ -4952,20 +5069,6 @@
     <d:index d:value="taker"/>
     <h1>taker</h1>
     <h3>罚球队员</h3>
-</d:entry>
-
-<d:entry id="take a kick" d:title="take a kick">
-    <d:index d:value="take a kick"/>
-    <h1>take a kick</h1>
-    <h3>踢点球；罚点球</h3>
-</d:entry>
-
-<d:entry id="take  the lead" d:title="take  the lead">
-    <d:index d:value="take  the lead"/>
-    <h1>take  the lead</h1>
-    <h3>领先</h3>
-    <p>take a large lead</p>
-    <p>遥遥领先</p>
 </d:entry>
 
 <d:entry id="tap in the ball" d:title="tap in the ball">
@@ -5004,12 +5107,6 @@
     <h3>领队</h3>
 </d:entry>
 
-<d:entry id="teammate" d:title="teammate">
-    <d:index d:value="teammate"/>
-    <h1>teammate</h1>
-    <h3>队友</h3>
-</d:entry>
-
 <d:entry id="team member" d:title="team member">
     <d:index d:value="team member"/>
     <h1>team member</h1>
@@ -5028,6 +5125,12 @@
     <h3>队服</h3>
 </d:entry>
 
+<d:entry id="teammate" d:title="teammate">
+    <d:index d:value="teammate"/>
+    <h1>teammate</h1>
+    <h3>队友</h3>
+</d:entry>
+
 <d:entry id="technically" d:title="technically">
     <d:index d:value="technically"/>
     <h1>technically</h1>
@@ -5040,6 +5143,13 @@
     <d:index d:value="technically report"/>
     <h1>technically report</h1>
     <h3>技术报告</h3>
+</d:entry>
+
+<d:entry id="telling pass" d:title="telling pass">
+    <d:index d:value="telling pass"/>
+    <h1>telling pass</h1>
+    <h3>送出妙传</h3>
+    <p>通常指能改变节奏，创造机会的传球</p>
 </d:entry>
 
 <d:entry id="terms used by referees" d:title="terms used by referees">
@@ -5090,16 +5200,16 @@
     <h3>渗透性传球；打到对方队员身后的传球</h3>
 </d:entry>
 
-<d:entry id="thrower" d:title="thrower">
-    <d:index d:value="thrower"/>
-    <h1>thrower</h1>
-    <h3>掷界外球的队员</h3>
-</d:entry>
-
 <d:entry id="throw-in" d:title="throw-in">
     <d:index d:value="throw-in"/>
     <h1>throw-in</h1>
     <h3>掷界外球</h3>
+</d:entry>
+
+<d:entry id="thrower" d:title="thrower">
+    <d:index d:value="thrower"/>
+    <h1>thrower</h1>
+    <h3>掷界外球的队员</h3>
 </d:entry>
 
 <d:entry id="thrust" d:title="thrust">
@@ -5136,6 +5246,12 @@
     <d:index d:value="time-wasting tactics"/>
     <h1>time-wasting tactics</h1>
     <h3>拖延战术</h3>
+</d:entry>
+
+<d:entry id="tinkerman" d:title="tinkerman">
+    <d:index d:value="tinkerman"/>
+    <h1>tinkerman</h1>
+    <h3>补锅匠</h3>
 </d:entry>
 
 <d:entry id="toe kick" d:title="toe kick">
@@ -5195,6 +5311,12 @@
     <p>（译注：trailing 是分词，在句中起定语作用。）</p>
 </d:entry>
 
+<d:entry id="training camp" d:title="training camp">
+    <d:index d:value="training camp"/>
+    <h1>training camp</h1>
+    <h3>集训营</h3>
+</d:entry>
+
 <d:entry id="transfer" d:title="transfer">
     <d:index d:value="transfer"/>
     <h1>transfer</h1>
@@ -5205,12 +5327,6 @@
     <p>2. 作名词：</p>
     <p>This football player wants a transfer to another club.</p>
     <p>这个足球队员想转会到另一个俱乐部区踢球。</p>
-</d:entry>
-
-<d:entry id="training camp" d:title="training camp">
-    <d:index d:value="training camp"/>
-    <h1>training camp</h1>
-    <h3>集训营</h3>
 </d:entry>
 
 <d:entry id="trap" d:title="trap">
@@ -5273,6 +5389,13 @@
     <h3>二打一</h3>
 </d:entry>
 
+<d:entry id="UEFA" d:title="UEFA">
+    <d:index d:value="UEFA"/>
+    <h1>UEFA</h1>
+    <h3>欧洲足球协会联盟的缩写</h3>
+    <p>Union of European Football Association</p>
+</d:entry>
+
 <d:entry id="underdog" d:title="underdog">
     <d:index d:value="underdog"/>
     <h1>underdog</h1>
@@ -5295,26 +5418,19 @@
     <p>（译注：ungentlemanly 原意是没有绅士风度的；缺乏教养的；粗鄙的。用于比赛，根据上下文可译为违背体育道德的；不正当的。）</p>
 </d:entry>
 
+<d:entry id="Union of European Football Association" d:title="Union of European Football Association">
+    <d:index d:value="Union of European Football Association"/>
+    <h1>Union of European Football Association</h1>
+    <h3>欧洲足球协会联盟</h3>
+    <p>UEFA</p>
+</d:entry>
+
 <d:entry id="upfield" d:title="upfield">
     <d:index d:value="upfield"/>
     <h1>upfield</h1>
     <h3>向前场</h3>
     <p>advance the ball upfield</p>
     <p>向前场传球</p>
-</d:entry>
-
-<d:entry id="UEFA" d:title="UEFA">
-    <d:index d:value="UEFA"/>
-    <h1>UEFA</h1>
-    <h3>欧洲足球协会联盟的缩写</h3>
-    <p>Union of European Football Association</p>
-</d:entry>
-
-<d:entry id="Union of European Football Association" d:title="Union of European Football Association">
-    <d:index d:value="Union of European Football Association"/>
-    <h1>Union of European Football Association</h1>
-    <h3>欧洲足球协会联盟</h3>
-    <p>UEFA</p>
 </d:entry>
 
 <d:entry id="upset" d:title="upset">
@@ -5324,28 +5440,28 @@
     <p>（译注：upset 原意是打翻；打乱；意外地击败对方。用于足球比赛根据上下文可译为爆冷门。）</p>
 </d:entry>
 
-<d:entry id="venue" d:title="venue">
-    <d:index d:value="venue"/>
-    <h1>venue</h1>
-    <h3>比赛地点</h3>
-</d:entry>
-
 <d:entry id="V-formation" d:title="V-formation">
     <d:index d:value="V-formation"/>
     <h1>V-formation</h1>
     <h3>V 阵型</h3>
 </d:entry>
 
-<d:entry id="violent conduct" d:title="violent conduct">
-    <d:index d:value="violent conduct"/>
-    <h1>violent conduct</h1>
-    <h3>粗暴行为</h3>
+<d:entry id="venue" d:title="venue">
+    <d:index d:value="venue"/>
+    <h1>venue</h1>
+    <h3>比赛地点</h3>
 </d:entry>
 
 <d:entry id="violation of rules" d:title="violation of rules">
     <d:index d:value="violation of rules"/>
     <h1>violation of rules</h1>
     <h3>违反规则</h3>
+</d:entry>
+
+<d:entry id="violent conduct" d:title="violent conduct">
+    <d:index d:value="violent conduct"/>
+    <h1>violent conduct</h1>
+    <h3>粗暴行为</h3>
 </d:entry>
 
 <d:entry id="visiting team" d:title="visiting team">
@@ -5392,16 +5508,22 @@
     <h3>热身赛</h3>
 </d:entry>
 
+<d:entry id="weak point" d:title="weak point">
+    <d:index d:value="weak point"/>
+    <h1>weak point</h1>
+    <h3>弱点</h3>
+</d:entry>
+
 <d:entry id="weakness" d:title="weakness">
     <d:index d:value="weakness"/>
     <h1>weakness</h1>
     <h3>弱点</h3>
 </d:entry>
 
-<d:entry id="weak point" d:title="weak point">
-    <d:index d:value="weak point"/>
-    <h1>weak point</h1>
-    <h3>弱点</h3>
+<d:entry id="whip the ball into the net" d:title="whip the ball into the net">
+    <d:index d:value="whip the ball into the net"/>
+    <h1>whip the ball into the net</h1>
+    <h3>突然起脚将球射入网内</h3>
 </d:entry>
 
 <d:entry id="whitewash" d:title="whitewash">
@@ -5409,12 +5531,6 @@
     <h1>whitewash</h1>
     <h3>大获全胜（使对方得零分）</h3>
     <p>Team A whitewashed Team B 6:0</p>
-</d:entry>
-
-<d:entry id="whip the ball into the net" d:title="whip the ball into the net">
-    <d:index d:value="whip the ball into the net"/>
-    <h1>whip the ball into the net</h1>
-    <h3>突然起脚将球射入网内</h3>
 </d:entry>
 
 <d:entry id="wide" d:title="wide">
@@ -5431,6 +5547,12 @@
     <h3>意志；意志力</h3>
 </d:entry>
 
+<d:entry id="win bouns" d:title="win bouns">
+    <d:index d:value="win bouns"/>
+    <h1>win bouns</h1>
+    <h3>赢球奖金</h3>
+</d:entry>
+
 <d:entry id="win by a narrow margin" d:title="win by a narrow margin">
     <d:index d:value="win by a narrow margin"/>
     <h1>win by a narrow margin</h1>
@@ -5440,12 +5562,6 @@
 <d:entry id="wing" d:title="wing">
     <d:index d:value="wing"/>
     <h1>wing</h1>
-    <h3>边锋</h3>
-</d:entry>
-
-<d:entry id="winger" d:title="winger">
-    <d:index d:value="winger"/>
-    <h1>winger</h1>
     <h3>边锋</h3>
 </d:entry>
 
@@ -5465,6 +5581,12 @@
     <d:index d:value="wing play"/>
     <h1>wing play</h1>
     <h3>边锋战术（边线打法）</h3>
+</d:entry>
+
+<d:entry id="winger" d:title="winger">
+    <d:index d:value="winger"/>
+    <h1>winger</h1>
+    <h3>边锋</h3>
 </d:entry>
 
 <d:entry id="winner's cup" d:title="winner's cup">
