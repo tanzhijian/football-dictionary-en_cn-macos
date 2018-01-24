@@ -219,6 +219,12 @@
     <p>苏格兰队准备在前场把球夺回来。</p>
 </d:entry>
 
+<d:entry id="ausputzer" d:title="ausputzer">
+    <d:index d:value="ausputzer"/>
+    <h1>ausputzer</h1>
+    <h3>自由人</h3>
+</d:entry>
+
 <d:entry id="back" d:title="back">
     <d:index d:value="back"/>
     <h1>back</h1>
@@ -489,6 +495,12 @@
     <h3>出色的表演，精彩的表演</h3>
 </d:entry>
 
+<d:entry id="build up" d:title="build up">
+    <d:index d:value="build up"/>
+    <h1>build up</h1>
+    <h3>由守转攻的过程</h3>
+</d:entry>
+
 <d:entry id="build up an attack" d:title="build up an attack">
     <d:index d:value="build up an attack"/>
     <h1>build up an attack</h1>
@@ -568,6 +580,21 @@
     <d:index d:value="carry"/>
     <h1>carry</h1>
     <h3>（守门员）持球行走</h3>
+</d:entry>
+
+<d:entry id="catenaccio" d:title="catenaccio">
+    <d:index d:value="catenaccio"/>
+    <h1>catenaccio</h1>
+    <h3>链式防守</h3>
+    <p>直译是“链式的”，主要有一实一虚两层含义。起初说的是战术，指一种防线，基本特征是设自由人和人盯人防守；如果指战术体系，通常包含自由人，人盯人防守，左后卫进攻，专职防守型中场，组织者指挥和右边锋回防等链式防守专有角色战术集合</p>
+</d:entry>
+
+<d:entry id="caudillo" d:title="caudillo">
+    <d:index d:value="caudillo"/>
+    <h1>caudillo</h1>
+    <h3>中前卫的一种</h3>
+    <p>可以翻译成“领袖”“长官”，概括了阿根廷足球对理想 5 号的要求</p>
+    <p>一个硬朗，冷酷的人物，而且不只会蛮勇斗狠，能力和强硬都不能少</p>
 </d:entry>
 
 <d:entry id="caution" d:title="caution">
@@ -1618,6 +1645,13 @@
     <h3>底线，端线</h3>
 </d:entry>
 
+<d:entry id="enganche" d:title="enganche">
+    <d:index d:value="enganche"/>
+    <h1>enganche</h1>
+    <h3>钩子；阿根廷式前场组织者</h3>
+    <p>永远运行在中场和锋线之间</p>
+</d:entry>
+
 <d:entry id="enter" d:title="enter">
     <d:index d:value="enter"/>
     <h1>enter</h1>
@@ -1719,6 +1753,12 @@
     <h3>退回，撤回</h3>
     <p>One or both fullbacks should fall back to the goal-line.</p>
     <p>一个或两个后卫应撤回到球门线（应向球门线后撤）。</p>
+</d:entry>
+
+<d:entry id="fantasista" d:title="fantasista">
+    <d:index d:value="fantasista"/>
+    <h1>fantasista</h1>
+    <h3>精灵；九号半</h3>
 </d:entry>
 
 <d:entry id="fast break" d:title="fast break">
@@ -3292,6 +3332,12 @@
     <h3>比赛日程表</h3>
 </d:entry>
 
+<d:entry id="means of structuring fludity" d:title="means of structuring fludity">
+    <d:index d:value="means of structuring fludity"/>
+    <h1>means of structuring fludity</h1>
+    <h3>在组织结构和灵活之间找到平衡，让球星充分施展才华，同时防守不受影响</h3>
+</d:entry>
+
 <d:entry id="midfield" d:title="midfield">
     <d:index d:value="midfield"/>
     <h1>midfield</h1>
@@ -3633,6 +3679,12 @@
     <p>国际足联世界杯组委会</p>
 </d:entry>
 
+<d:entry id="oriundi" d:title="oriundi">
+    <d:index d:value="oriundi"/>
+    <h1>oriundi</h1>
+    <h3>入籍意大利的南美球员</h3>
+</d:entry>
+
 <d:entry id="out of form" d:title="out of form">
     <d:index d:value="out of form"/>
     <h1>out of form</h1>
@@ -3846,6 +3898,12 @@
     <p>这个队企图从中路突破。</p>
 </d:entry>
 
+<d:entry id="penetration" d:title="penetration">
+    <d:index d:value="penetration"/>
+    <h1>penetration</h1>
+    <h3>穿透</h3>
+</d:entry>
+
 <d:entry id="penetration down the wings" d:title="penetration down the wings">
     <d:index d:value="penetration down the wings"/>
     <h1>penetration down the wings</h1>
@@ -3970,10 +4028,32 @@
     <h3>jin'gong'zu'zhi'zhe进攻组织者；发动机；司令塔</h3>
 </d:entry>
 
+<d:entry id="polifuncionalidad" d:title="polifuncionalidad">
+    <d:index d:value="polifuncionalidad"/>
+    <h1>polifuncionalidad</h1>
+    <h3>全面</h3>
+</d:entry>
+
+<d:entry id="POMO" d:title="POMO">
+    <d:index d:value="POMO"/>
+    <h1>POMO</h1>
+    <h3>机会最优位置</h3>
+    <p>指在远门柱附近，距离球门较近的一片区域</p>
+    <p>Position of Maximum Opportunity 的缩写</p>
+</d:entry>
+
 <d:entry id="position" d:title="position">
     <d:index d:value="position"/>
     <h1>position</h1>
     <h3>位置</h3>
+</d:entry>
+
+<d:entry id="Position of Maximum Opportunity" d:title="Position of Maximum Opportunity">
+    <d:index d:value="Position of Maximum Opportunity"/>
+    <h1>Position of Maximum Opportunity</h1>
+    <h3>机会最优位置</h3>
+    <p>指在远门柱附近，距离球门较近的一片区域</p>
+    <p>POMO 的全写</p>
 </d:entry>
 
 <d:entry id="position-switching" d:title="position-switching">
@@ -4126,6 +4206,12 @@
     <h3>抛球凌空踢出</h3>
 </d:entry>
 
+<d:entry id="punteroventilador" d:title="punteroventilador">
+    <d:index d:value="punteroventilador"/>
+    <h1>punteroventilador</h1>
+    <h3>扇翼；边翼卫</h3>
+</d:entry>
+
 <d:entry id="push" d:title="push">
     <d:index d:value="push"/>
     <h1>push</h1>
@@ -4249,7 +4335,8 @@
 <d:entry id="regista" d:title="regista">
     <d:index d:value="regista"/>
     <h1>regista</h1>
-    <h3>组织者</h3>
+    <h3>意大利式后场组织者</h3>
+    <p>比如皮尔洛</p>
 </d:entry>
 
 <d:entry id="relegate" d:title="relegate">
@@ -5260,10 +5347,23 @@
     <h3>脚尖踢球</h3>
 </d:entry>
 
+<d:entry id="tornante" d:title="tornante">
+    <d:index d:value="tornante"/>
+    <h1>tornante</h1>
+    <h3>回击手</h3>
+    <p>回撤帮着防守的边锋</p>
+</d:entry>
+
 <d:entry id="toss of a coin" d:title="toss of a coin">
     <d:index d:value="toss of a coin"/>
     <h1>toss of a coin</h1>
     <h3></h3>
+</d:entry>
+
+<d:entry id="totaalvoetbal" d:title="totaalvoetbal">
+    <d:index d:value="totaalvoetbal"/>
+    <h1>totaalvoetbal</h1>
+    <h3>全能足球</h3>
 </d:entry>
 
 <d:entry id="total football" d:title="total football">
@@ -5333,6 +5433,13 @@
     <d:index d:value="trap"/>
     <h1>trap</h1>
     <h3>停球</h3>
+</d:entry>
+
+<d:entry id="trequartista" d:title="trequartista">
+    <d:index d:value="trequartista"/>
+    <h1>trequartista</h1>
+    <h3>前腰；意大利式前场组织者</h3>
+    <p>比如锋线后的托蒂</p>
 </d:entry>
 
 <d:entry id="triangle passing" d:title="triangle passing">
@@ -5446,10 +5553,30 @@
     <h3>V 阵型</h3>
 </d:entry>
 
+<d:entry id="ventilador-wing" d:title="ventilador-wing">
+    <d:index d:value="ventilador-wing"/>
+    <h1>ventilador-wing</h1>
+    <h3>扇翼；边翼卫</h3>
+</d:entry>
+
 <d:entry id="venue" d:title="venue">
     <d:index d:value="venue"/>
     <h1>venue</h1>
     <h3>比赛地点</h3>
+</d:entry>
+
+<d:entry id="verrou" d:title="verrou">
+    <d:index d:value="verrou"/>
+    <h1>verrou</h1>
+    <h3>门闩；门闩人</h3>
+    <p>也就是后来的自由人</p>
+</d:entry>
+
+<d:entry id="vianema" d:title="vianema">
+    <d:index d:value="vianema"/>
+    <h1>vianema</h1>
+    <h3>维亚尼式的</h3>
+    <p>链式防守的前置</p>
 </d:entry>
 
 <d:entry id="violation of rules" d:title="violation of rules">
@@ -5468,6 +5595,12 @@
     <d:index d:value="visiting team"/>
     <h1>visiting team</h1>
     <h3>客队</h3>
+</d:entry>
+
+<d:entry id="volatile standards" d:title="volatile standards">
+    <d:index d:value="volatile standards"/>
+    <h1>volatile standards</h1>
+    <h3>大起大落</h3>
 </d:entry>
 
 <d:entry id="volley" d:title="volley">
