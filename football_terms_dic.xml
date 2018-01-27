@@ -182,7 +182,7 @@
 <d:entry id="attacker" d:title="attacker">
     <d:index d:value="attacker"/>
     <h1>attacker</h1>
-    <h3>攻方队员</h3>
+    <h3>进攻型球员；攻击手</h3>
 </d:entry>
 
 <d:entry id="attacking football" d:title="attacking football">
@@ -711,12 +711,6 @@
     <p>abbreviation for Chinese Football Association</p>
 </d:entry>
 
-<d:entry id="challenge for the ball" d:title="challenge for the ball">
-    <d:index d:value="challenge for the ball"/>
-    <h1>challenge for the ball</h1>
-    <h3>抢球，争球</h3>
-</d:entry>
-
 <d:entry id="champions" d:title="champions">
     <d:index d:value="champions"/>
     <h1>champions</h1>
@@ -801,7 +795,7 @@
 <d:entry id="chip" d:title="chip">
     <d:index d:value="chip"/>
     <h1>chip</h1>
-    <h3>蹭球</h3>
+    <h3>蹭球；挑射；吊射；搓射；勺子球</h3>
     <p>to chip a ball</p>
     <p>蹭球</p>
 </d:entry>
@@ -809,7 +803,7 @@
 <d:entry id="chip kick" d:title="chip kick">
     <d:index d:value="chip kick"/>
     <h1>chip kick</h1>
-    <h3>蹭球（踢过对方队员头顶的小高球）</h3>
+    <h3>蹭球；挑射；吊射；勺子球（踢过对方队员头顶的小高球）</h3>
     <p>to make a chip kick</p>
     <p>蹭球</p>
 </d:entry>
@@ -817,7 +811,7 @@
 <d:entry id="chip pass" d:title="chip pass">
     <d:index d:value="chip pass"/>
     <h1>chip pass</h1>
-    <h3>蹭传（把球提过对方队员头顶传给队友的一种传球方法）</h3>
+    <h3>蹭传；挑传（把球提过对方队员头顶传给队友的一种传球方法）</h3>
     <p>to make a chip pass with the full instep</p>
     <p>用整个脚面进行蹭传</p>
     <p>The chip pass offers a useful way of feeding the wing forward from the midfield.</p>
@@ -1431,7 +1425,7 @@
 <d:entry id="dive" d:title="dive">
     <d:index d:value="dive"/>
     <h1>dive</h1>
-    <h3>鱼跃救球，鱼跃救球动作</h3>
+    <h3>鱼跃救球，鱼跃救球动作；跳水；假摔</h3>
     <p>1. 作动词：</p>
     <p>鱼跃救球</p>
     <p>to dive for a high / low ball</p>
@@ -5782,6 +5776,304 @@
     <d:index d:value="zonal defence"/>
     <h1>zonal defence</h1>
     <h3>区域联防</h3>
+</d:entry>
+
+<d:entry id="one-on-one situations" d:title="one-on-one situations">
+    <d:index d:value="one-on-one situations"/>
+    <h1>one-on-one situations</h1>
+    <h3>一对一</h3>
+    <p>双方球员单挑，比如一对一争抢；一对一突破</p>
+</d:entry>
+
+<d:entry id="anchor man" d:title="anchor man">
+    <d:index d:value="anchor man"/>
+    <h1>anchor man</h1>
+    <h3>防守型后腰；挑水工；锚人</h3>
+    <p>FM 的定义：</p>
+    <p>主要任务是坐镇防线和中场之间，拦截对方传球，抢断并把球交给更有创造性的队友，主要工作是防守，很少冒险前插到过远的位置去跑位或助攻</p>
+</d:entry>
+
+<d:entry id="balance" d:title="balance">
+    <d:index d:value="balance"/>
+    <h1>balance</h1>
+    <h3>平衡；攻守平衡</h3>
+    <p>1. 平衡</p>
+    <p>FM 定义：</p>
+    <p>球员在有球和无球状态时面对袭来对手的稳定性</p>
+    <p>2. 攻守平衡</p>
+    <p>跟球员的位置有关；保持合适的距离</p>
+</d:entry>
+
+<d:entry id="box to box midfielder" d:title="box to box midfielder">
+    <d:index d:value="box to box midfielder"/>
+    <h1>box to box midfielder</h1>
+    <h3>全能中场</h3>
+    <p>字面意思为覆盖范围在双方禁区之间的中场球员；特点是活动范围大，攻守兼顾</p>
+    <p>FM 定义：</p>
+    <p>不停的跑动让他在进攻和防守中都能发挥作用。进攻中能压倒前场策应锋线，后排插入禁区争抢落点，或者回撤靠远射威胁对方球门，防守中需要阻截对方攻击型中场，保护本队防线</p>
+    <p>通常平行站位的 4-4-2 阵型会设置一个 box to box midfielder</p>
+</d:entry>
+
+<d:entry id="carrilero" d:title="carrilero">
+    <d:index d:value="carrilero"/>
+    <h1>carrilero</h1>
+    <h3>能攻善守的边路球员</h3>
+    <p>（西班牙语）</p>
+    <p>类似 3-5-2 中的两个边路球员</p>
+</d:entry>
+
+<d:entry id="full back" d:title="full back">
+    <d:index d:value="full back"/>
+    <h1>full back</h1>
+    <h3>边后卫</h3>
+</d:entry>
+
+<d:entry id="close down" d:title="close down">
+    <d:index d:value="close down"/>
+    <h1>close down</h1>
+    <h3>逼抢；封锁；压迫</h3>
+    <p>字面意思为封锁空间，压缩空间</p>
+</d:entry>
+
+<d:entry id="compact" d:title="compact">
+    <d:index d:value="compact"/>
+    <h1>compact</h1>
+    <h3>阵型紧凑；紧凑</h3>
+    <p>缩进球员的距离使得阵型紧凑</p>
+</d:entry>
+
+<d:entry id="counter-attack" d:title="counter-attack">
+    <d:index d:value="counter-attack"/>
+    <h1>counter-attack</h1>
+    <h3>反击</h3>
+</d:entry>
+
+<d:entry id="counterattack" d:title="counterattack">
+    <d:index d:value="counterattack"/>
+    <h1>counterattack</h1>
+    <h3>反击</h3>
+</d:entry>
+
+<d:entry id="counter" d:title="counter">
+    <d:index d:value="counter"/>
+    <h1>counter</h1>
+    <h3>反击</h3>
+</d:entry>
+
+<d:entry id="cover" d:title="cover">
+    <d:index d:value="cover"/>
+    <h1>cover</h1>
+    <h3>覆盖；看守</h3>
+    <p>防守球员对于空间的覆盖和看守</p>
+</d:entry>
+
+<d:entry id="mark" d:title="mark">
+    <d:index d:value="mark"/>
+    <h1>mark</h1>
+    <h3>盯人</h3>
+    <p>防守球员对于人的盯防</p>
+</d:entry>
+
+<d:entry id="angled pass" d:title="angled pass">
+    <d:index d:value="angled pass"/>
+    <h1>angled pass</h1>
+    <h3>斜线传球</h3>
+</d:entry>
+
+<d:entry id="angled cross" d:title="angled cross">
+    <d:index d:value="angled cross"/>
+    <h1>angled cross</h1>
+    <h3>斜线传中</h3>
+</d:entry>
+
+<d:entry id="band" d:title="band">
+    <d:index d:value="band"/>
+    <h1>band</h1>
+    <h3>阵线</h3>
+    <p>three band formation</p>
+    <p>三条阵线的阵型，比如 4-4-2</p>
+</d:entry>
+
+<d:entry id="capocannoniere" d:title="capocannoniere">
+    <d:index d:value="capocannoniere"/>
+    <h1>capocannoniere</h1>
+    <h3>最佳射手</h3>
+    <p>（意大利语）</p>
+</d:entry>
+
+<d:entry id="central midfielder" d:title="central midfielder">
+    <d:index d:value="central midfielder"/>
+    <h1>central midfielder</h1>
+    <h3>中场；中前卫</h3>
+    <p>FM 的定义：</p>
+    <p>通常是勤恳的多面手，在进攻与防守时起到串联前后场的作用</p>
+</d:entry>
+
+<d:entry id="central winger" d:title="central winger">
+    <d:index d:value="central winger"/>
+    <h1>central winger</h1>
+    <h3>内收边锋</h3>
+</d:entry>
+
+<d:entry id="challenge" d:title="challenge">
+    <d:index d:value="challenge"/>
+    <h1>challenge</h1>
+    <h3>争抢；拼抢</h3>
+    <p>challenge for the ball</p>
+    <p>争球；抢球</p>
+</d:entry>
+
+<d:entry id="Christmas Tree" d:title="Christmas Tree">
+    <d:index d:value="Christmas Tree"/>
+    <h1>Christmas Tree</h1>
+    <h3>圣诞树阵型；4-3-2-1</h3>
+</d:entry>
+
+<d:entry id="centre back" d:title="centre back">
+    <d:index d:value="centre back"/>
+    <h1>centre back</h1>
+    <h3>中后卫</h3>
+</d:entry>
+
+<d:entry id="close out" d:title="close out">
+    <d:index d:value="close out"/>
+    <h1>close out</h1>
+    <h3>搞定比赛</h3>
+</d:entry>
+
+<d:entry id="cut back" d:title="cut back">
+    <d:index d:value="cut back"/>
+    <h1>cut back</h1>
+    <h3>下底传中；向后传中</h3>
+    <p>（通常是横传给身后球员）</p>
+</d:entry>
+
+<d:entry id="cut inside" d:title="cut inside">
+    <d:index d:value="cut inside"/>
+    <h1>cut inside</h1>
+    <h3>内切</h3>
+</d:entry>
+
+<d:entry id="cut in" d:title="cut in">
+    <d:index d:value="cut in"/>
+    <h1>cut in</h1>
+    <h3>内切</h3>
+</d:entry>
+
+<d:entry id="shuttle" d:title="shuttle">
+    <d:index d:value="shuttle"/>
+    <h1>shuttle</h1>
+    <h3>梭子</h3>
+    <p>（通常指频繁前后直线跑动的球员行为）</p>
+</d:entry>
+
+<d:entry id="runner-up" d:title="runner-up">
+    <d:index d:value="runner-up"/>
+    <h1>runner-up</h1>
+    <h3>亚军</h3>
+</d:entry>
+
+<d:entry id="Danubian school" d:title="Danubian school">
+    <d:index d:value="Danubian school"/>
+    <h1>Danubian school</h1>
+    <h3>多瑙河流派；2-3-5 阵型</h3>
+    <p>特点是短传，地面进攻，注重技巧和谋略</p>
+</d:entry>
+
+<d:entry id="Danubian style" d:title="Danubian style">
+    <d:index d:value="Danubian style"/>
+    <h1>Danubian style</h1>
+    <h3>多瑙河流派；2-3-5 阵型</h3>
+    <p>特点是短传，地面进攻，注重技巧和谋略</p>
+</d:entry>
+
+<d:entry id="deep lying forward" d:title="deep lying forward">
+    <d:index d:value="deep lying forward"/>
+    <h1>deep lying forward</h1>
+    <h3>拖后前锋</h3>
+    <p>FM 定义：</p>
+    <p>主要作用时连接锋线和中场。任务是向靠后的空当回撤，先拿住球，然后给队友做策应，回传或分边，如果有机会转身，那么也可以给锋线队员做球。</p>
+</d:entry>
+
+<d:entry id="deep lying playmaker" d:title="deep lying playmaker">
+    <d:index d:value="deep lying playmaker"/>
+    <h1>deep lying playmaker</h1>
+    <h3>拖后组织核心</h3>
+    <p>FM 定义：</p>
+    <p>活动区域在防线和中场之间，通过向前方球员输送精准的传球来发动进攻。最主要的能力是视野，但也需要有一定的防守能力。</p>
+</d:entry>
+
+<d:entry id="depth" d:title="depth">
+    <d:index d:value="depth"/>
+    <h1>depth</h1>
+    <h3>纵深；厚度</h3>
+    <p>战术术语</p>
+    <p>进攻中的纵深主要指纵向的传球空间；防守中的纵深主要指具有层次的防线布阵</p>
+</d:entry>
+
+<d:entry id="dead leaf" d:title="dead leaf">
+    <d:index d:value="dead leaf"/>
+    <h1>dead leaf</h1>
+    <h3>落叶球</h3>
+    <p>带有强烈弧线，在空中有明显下坠的射门</p>
+</d:entry>
+
+<d:entry id="foglie morte" d:title="foglie morte">
+    <d:index d:value="foglie morte"/>
+    <h1>foglie morte</h1>
+    <h3>落叶球</h3>
+    <p>（意大利语）</p>
+    <p>带有强烈弧线，在空中有明显下坠的射门</p>
+</d:entry>
+
+<d:entry id="deep" d:title="deep">
+    <d:index d:value="deep"/>
+    <h1>deep</h1>
+    <h3>拖后；回撤</h3>
+</d:entry>
+
+<d:entry id="defensive midfielder" d:title="defensive midfielder">
+    <d:index d:value="defensive midfielder"/>
+    <h1>defensive midfielder</h1>
+    <h3>防守型中场；后腰</h3>
+    <p>FM 定义：</p>
+    <p>主要职责是通过积极的鼻腔破坏对方的进攻，帮助球队防守，在本队控制球的时候，能够在中场策应。一个重要任务就是在球队在被对手压制一段时间，本方后防线和攻击线需要重组队形时，能够拿住球。</p>
+</d:entry>
+
+<d:entry id="deep line" d:title="deep line">
+    <d:index d:value="deep line"/>
+    <h1>deep line</h1>
+    <h3>防线回收</h3>
+</d:entry>
+
+<d:entry id="deep lying" d:title="deep lying">
+    <d:index d:value="deep lying"/>
+    <h1>deep lying</h1>
+    <h3>拖后；回撤</h3>
+</d:entry>
+
+<d:entry id="diagonal pass" d:title="diagonal pass">
+    <d:index d:value="diagonal pass"/>
+    <h1>diagonal pass</h1>
+    <h3>斜线传球</h3>
+</d:entry>
+
+<d:entry id="distribution" d:title="distribution">
+    <d:index d:value="distribution"/>
+    <h1>distribution</h1>
+    <h3>分球</h3>
+</d:entry>
+
+<d:entry id="double pivot" d:title="double pivot">
+    <d:index d:value="double pivot"/>
+    <h1>double pivot</h1>
+    <h3>双后腰</h3>
+</d:entry>
+
+<d:entry id="driven cross" d:title="driven cross">
+    <d:index d:value="driven cross"/>
+    <h1>driven cross</h1>
+    <h3>大力传中</h3>
 </d:entry>
 
 </d:dictionary>
