@@ -14,12 +14,10 @@ OUTPUT_FILENAME = 'football_terms_dic.xml'
 
 
 def load_dataset(dataset):
-    entry_list = []
     with open(dataset) as f:
         f_csv = csv.reader(f)
-        headers = next(f_csv)
-        for row in f_csv:
-            entry_list.append(row)
+        __ = next(f_csv)
+        entry_list = [row for row in f_csv]
     return entry_list
 
 
@@ -27,7 +25,7 @@ def render_template(dataset, input_filename, output_filename):
     entry_list = load_dataset(dataset)
     env = Environment(loader=FileSystemLoader('./'))
     template = env.get_template(input_filename).render(entry_list=entry_list)
-    with open(output_filename, 'wt') as f:
+    with open(output_filename, 'w') as f:
         f.write(template)
 
 
