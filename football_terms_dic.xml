@@ -376,6 +376,13 @@
     <p>意大利队 2:1 打败尼日利亚队。</p>
 </d:entry>
 
+<d:entry id="beinschuss" d:title="beinschuss">
+    <d:index d:value="beinschuss"/>
+    <h1>beinschuss</h1>
+    <h3>穿裆过人</h3>
+    <p>德语</p>
+</d:entry>
+
 <d:entry id="below one's best" d:title="below one's best">
     <d:index d:value="below one's best"/>
     <h1>below one's best</h1>
@@ -918,6 +925,12 @@
     <p>比赛开始前，两队可用投币方式来选择场区和开球权。胜者有选择场区或开球的优先权。</p>
 </d:entry>
 
+<d:entry id="chorreo" d:title="chorreo">
+    <d:index d:value="chorreo"/>
+    <h1>chorreo</h1>
+    <h3>痛击；一边倒</h3>
+</d:entry>
+
 <d:entry id="Christmas Tree" d:title="Christmas Tree">
     <d:index d:value="Christmas Tree"/>
     <h1>Christmas Tree</h1>
@@ -953,6 +966,13 @@
     <p>用倒钩球将球踢出守区</p>
     <p>to make a powerful clearance kick</p>
     <p>解除危险的一脚球（大脚解围）</p>
+</d:entry>
+
+<d:entry id="close" d:title="close">
+    <d:index d:value="close"/>
+    <h1>close</h1>
+    <h3>封锁</h3>
+    <p>这对边路来说最有效，原因很简单：如果你逼抢中场球员，他们的四周都是可以传球的开放空间；如果你紧逼对方的边路球员，他们一般只有把球带向中路或者向后回传。(《冠军联赛梦想》P133)</p>
 </d:entry>
 
 <d:entry id="close contest" d:title="close contest">
@@ -1082,6 +1102,13 @@
     <d:index d:value="come from behind to win the game"/>
     <h1>come from behind to win the game</h1>
     <h3>反败为胜</h3>
+</d:entry>
+
+<d:entry id="comeon" d:title="comeon">
+    <d:index d:value="comeon"/>
+    <h1>comeon</h1>
+    <h3>压上</h3>
+    <p>并不是每支球队都能贯穿全场的这么做，因为这对体力和意志的要求太高了，当对手是喜欢长传的球队时，这种办法未必奏效，对付这种球队最好是去争抢第二落点。而对阵热衷短传配合的球队，压上逼抢就显得尤为重要。(《冠军联赛梦想》P133)</p>
 </d:entry>
 
 <d:entry id="commit an opponent" d:title="commit an opponent">
@@ -1607,6 +1634,13 @@
     <h3>纵深；厚度</h3>
     <p>战术术语</p>
     <p>进攻中的纵深主要指纵向的传球空间；防守中的纵深主要指具有层次的防线布阵</p>
+</d:entry>
+
+<d:entry id="desequilibrar" d:title="desequilibrar">
+    <d:index d:value="desequilibrar"/>
+    <h1>desequilibrar</h1>
+    <h3>使...失去平衡; 打破平衡</h3>
+    <p>西班牙语，通常用来形容球员的特点，比如：科威尔的特点是打破平衡；科威尔一上场就能够打破米兰的平衡】</p>
 </d:entry>
 
 <d:entry id="diagonal pass" d:title="diagonal pass">
@@ -3607,6 +3641,12 @@
     <h3>制造空当（制造空隙）</h3>
 </d:entry>
 
+<d:entry id="man marker" d:title="man marker">
+    <d:index d:value="man marker"/>
+    <h1>man marker</h1>
+    <h3>盯人中卫</h3>
+</d:entry>
+
 <d:entry id="man-for-man marking" d:title="man-for-man marking">
     <d:index d:value="man-for-man marking"/>
     <h1>man-for-man marking</h1>
@@ -3617,6 +3657,27 @@
     <d:index d:value="man-to-man marking"/>
     <h1>man-to-man marking</h1>
     <h3>盯人防守</h3>
+</d:entry>
+
+<d:entry id="manager" d:title="manager">
+    <d:index d:value="manager"/>
+    <h1>manager</h1>
+    <h3>主教练</h3>
+    <p>英国球队通常用 manager 称呼主教练</p>
+</d:entry>
+
+<d:entry id="manita" d:title="manita">
+    <d:index d:value="manita"/>
+    <h1>manita</h1>
+    <h3>进五球</h3>
+    <p>西班牙语</p>
+</d:entry>
+
+<d:entry id="manndecker" d:title="manndecker">
+    <d:index d:value="manndecker"/>
+    <h1>manndecker</h1>
+    <h3>盯人中卫</h3>
+    <p>德语</p>
 </d:entry>
 
 <d:entry id="march in" d:title="march in">
@@ -3644,6 +3705,12 @@
     <h3>区域联防</h3>
 </d:entry>
 
+<d:entry id="marker" d:title="marker">
+    <d:index d:value="marker"/>
+    <h1>marker</h1>
+    <h3>盯人中卫</h3>
+</d:entry>
+
 <d:entry id="match" d:title="match">
     <d:index d:value="match"/>
     <h1>match</h1>
@@ -3662,6 +3729,32 @@
     <d:index d:value="means of structuring fludity"/>
     <h1>means of structuring fludity</h1>
     <h3>在组织结构和灵活之间找到平衡，让球星充分施展才华，同时防守不受影响</h3>
+</d:entry>
+
+<d:entry id="mediano" d:title="mediano">
+    <d:index d:value="mediano"/>
+    <h1>mediano</h1>
+    <h3>意大利式防守型中场</h3>
+    <p>通常指加图索这类型而不是皮尔洛这类型</p>
+</d:entry>
+
+<d:entry id="metodo" d:title="metodo">
+    <d:index d:value="metodo"/>
+    <h1>metodo</h1>
+    <h3>Metodo 体系；2-3-2-3 阵型</h3>
+</d:entry>
+
+<d:entry id="metronome" d:title="metronome">
+    <d:index d:value="metronome"/>
+    <h1>metronome</h1>
+    <h3>节拍器</h3>
+</d:entry>
+
+<d:entry id="mezzala" d:title="mezzala">
+    <d:index d:value="mezzala"/>
+    <h1>mezzala</h1>
+    <h3>伪边锋；边路全能中场</h3>
+    <p>待 FM2018 发售后补充</p>
 </d:entry>
 
 <d:entry id="midfield" d:title="midfield">
@@ -3792,6 +3885,12 @@
     <d:index d:value="number of entries"/>
     <h1>number of entries</h1>
     <h3>参加比赛人数；报名人数</h3>
+</d:entry>
+
+<d:entry id="nutmeg" d:title="nutmeg">
+    <d:index d:value="nutmeg"/>
+    <h1>nutmeg</h1>
+    <h3>穿裆过人</h3>
 </d:entry>
 
 <d:entry id="obstruct" d:title="obstruct">
@@ -4436,7 +4535,8 @@
 <d:entry id="press" d:title="press">
     <d:index d:value="press"/>
     <h1>press</h1>
-    <h3>紧张；压力</h3>
+    <h3>紧张；压力；施压</h3>
+    <p>哈维阿隆索或马斯切拉诺这类对比赛有着宽阔视野的中场球员，会对着全队大吼着这个词，提醒我们准备袭扰对手，逼抢对方脚下的球，主动重夺控球权(《冠军联赛梦想》P133)</p>
 </d:entry>
 
 <d:entry id="pressing" d:title="pressing">
@@ -4668,7 +4768,7 @@
 <d:entry id="regista" d:title="regista">
     <d:index d:value="regista"/>
     <h1>regista</h1>
-    <h3>意大利式后场组织者</h3>
+    <h3>意大利式后场组织者；节拍器</h3>
     <p>比如皮尔洛</p>
 </d:entry>
 
