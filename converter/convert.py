@@ -5,12 +5,13 @@
 """
 
 import csv
+import os
 
 from jinja2 import Environment, FileSystemLoader
 
-DATASET = 'football_terms_dic - 1.csv'
-INPUT_FILENAME = 'template.xml'
-OUTPUT_FILENAME = 'football_terms_dic.xml'
+dataset = os.getcwd() + '/data.csv'
+template_file = 'converter/template.xml'
+output_file = 'converter/data.xml'
 
 
 def load_dataset(dataset):
@@ -21,13 +22,16 @@ def load_dataset(dataset):
     return entry_list
 
 
-def render_template(dataset, input_filename, output_filename):
+def render_template(dataset, template_file):
     entry_list = load_dataset(dataset)
     env = Environment(loader=FileSystemLoader('./'))
-    template = env.get_template(input_filename).render(entry_list=entry_list)
-    with open(output_filename, 'w') as f:
-        f.write(template)
+    return env.get_template(template_file).render(entry_list=entry_list)
+
+
+def main():
+    with open(output_file, 'w') as f:
+        f.write(render_template(dataset, template_file))
 
 
 if __name__ == '__main__':
-    render_template(DATASET, INPUT_FILENAME, OUTPUT_FILENAME)
+    main()
