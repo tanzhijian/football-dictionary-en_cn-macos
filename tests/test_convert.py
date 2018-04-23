@@ -7,15 +7,19 @@
 import unittest
 
 from converter.convert import (
-    load_dataset, render_template, dataset, template_file)
+    load_data, render_template, data, template)
 
 
 class ConvertTestCase(unittest.TestCase):
 
+    def setUp(self):
+        self.entry_list = []
+
     def test_load_dataset(self):
-        data = load_dataset(dataset)
-        self.assertTrue(data)
+        self.assertFalse(self.entry_list)
+        self.entry_list.extend(load_data(data))
+        self.assertTrue(self.entry_list)
 
     def test_render_template(self):
-        template = render_template(dataset, template_file)
-        self.assertTrue(template)
+        xml = render_template(self.entry_list, template)
+        self.assertTrue(xml)

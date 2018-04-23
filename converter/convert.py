@@ -9,28 +9,27 @@ import os
 
 from jinja2 import Environment, FileSystemLoader
 
-dataset = os.getcwd() + '/data.csv'
-template_file = 'converter/template.xml'
-output_file = 'converter/data.xml'
+data = os.getcwd() + '/data.csv'
+template = 'converter/template.xml'
+output = 'converter/data.xml'
 
 
-def load_dataset(dataset):
-    with open(dataset) as f:
+def load_data(data):
+    with open(data) as f:
         f_csv = csv.reader(f)
         __ = next(f_csv)
         entry_list = [row for row in f_csv]
     return entry_list
 
 
-def render_template(dataset, template_file):
-    entry_list = load_dataset(dataset)
+def render_template(entry_list, template):
     env = Environment(loader=FileSystemLoader('./'))
-    return env.get_template(template_file).render(entry_list=entry_list)
+    return env.get_template(template).render(entry_list=entry_list)
 
 
 def main():
-    with open(output_file, 'w') as f:
-        f.write(render_template(dataset, template_file))
+    with open(output, 'w') as f:
+        f.write(render_template(load_data(data), template))
 
 
 if __name__ == '__main__':
