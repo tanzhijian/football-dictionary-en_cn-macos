@@ -48,6 +48,7 @@ install:
 
 clean:
 	$(RM) -rf $(DICT_DEV_KIT_OBJ_DIR)
+	$(RM) $(DICT_SRC_PATH)
 
 
 test:
